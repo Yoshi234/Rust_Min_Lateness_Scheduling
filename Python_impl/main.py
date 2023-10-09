@@ -41,7 +41,7 @@ if __name__ == "__main__":
     # deadline the number of days which have passed leading up to the most recent
     # update point
     Assignments = [
-        Assign("Data Challenge Outline - timeline work", 2, 43), 
+        Assign("Data Challenge Outline - timeline work", 2, 144), 
         Assign("Delphi Model Validation", 3, 24),
         Assign("Delphi Model Latency", 3, 24),
         Assign("Delphi Model Throughput", 3, 24),
@@ -49,7 +49,7 @@ if __name__ == "__main__":
         Assign("CSE 3500 PS3 - p2", 1, 45), 
         Assign("CSE 3500 PS3 - p3", 1, 45),
         Assign("CSE 3500 PS3 - p5", 1, 45),
-        Assign("STAT 3515 Weakness Identification", 2, -15), 
+        Assign("STAT 3515 Weakness Identification", 1, -15), 
         Assign("STAT 3515 EP1 - One-Way Fixed Effects", 2, 9), 
         Assign("STAT 3515 EP2 - One Way Random Effects", 2, 9),
         Assign("STAT 3515 EP3 - Randomized Complete Block Design", 2, 9),
@@ -62,10 +62,14 @@ if __name__ == "__main__":
         Assign("Fill out Honors Plan + Submit", 1, 144), 
         Assign("Put together Poster Presentation for Fall Frontiers", 5, 38),
         Assign("Print Poster Presentation for Fall Frontiers", 2, 45), 
-        Assign("Apply for NVIDIA Internships of Interest", 3, 2),
-        Assign("Register for Data Science Day Poster Session", 0.5, 13)
-
+        Assign("Apply for NVIDIA Internships of Interest", 1, 2),
+        Assign("Register for Data Science Day Poster Session", 0.5, 13),
+        Assign("Compile and print notes for Test", 2, 19), 
+        Assign("Compile Class Notes - 10/9 + 10/10", 2, 19), 
+        Assign("Compile Class Notes - 10/11 + 10/12 + 10/13", 3, 38)
     ]
+    for assignment in Assignments: 
+        assignment.deadline -= 3
     random.shuffle(Assignments)
 
     time = 0

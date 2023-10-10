@@ -1,21 +1,22 @@
-2023-10-10;8
-CS3500 ps3 3;2;33
-CS3500 ps3 2;2;33
-CS3500 ps3 1;2;33
-CS3500 ps3 5;2;33
-Delphi run throughput testing;3.0;7.0
-Delphi run validation testing;4.0;7.0
-Leadership Project Plan (Honors);2.0;1912.0
-Delphi run latency testing;3.0;7.0
-STAT 3375 practice problems - mgf for discrete distributions;2.0;27.0
-Plan Data Challenge;2.0;121.0
-register for data science day;1.0;5.0
-STAT 3515 1 problem incomplete block design greco latin squares;1.0;3.0
-Fill out honors plan of study;2.0;128.0
-STAT 3515 three way factorial design problem;2.0;2.0
-STAT 3675 Homework 2;3.0;7.0
-Apply for NVIDIA taipei internship;1.0;21.0
-STAT 3515 1 problem one-way random fixed effects (var comp analysis);1.0;3.0
-STAT 3515 1 problem randomized incomplete block latin squares;1.0;3.0
-STAT 3515 1 problem one-way fixed effects (multiple means comparison);1.0;3.0
-Put together poster presentation for fall frontiers;4.0;21.0
+2023-10-10;17
+STAT 3515 - additional 2 factorial design problem ;1;5
+STAT 3515 1 problem completely randomized block design;1.0;1.0
+STAT 3515 1 problem one-way fixed effects multiple means comparison;1.0;1.0
+STAT 3515 fix issues with tukey comparisons - 3 factorial homework;1.0;0.0
+STAT 3515 1 problem one-way random fixed effects (var comp analysis);1.0;1.0
+STAT 3515 1 problem randomized incomplete block latin squares;1.0;1.0
+Apply for NVIDIA taipei internship;1.0;26.0
+Fill out honors plan of study;2.0;130.0
+Register for Data Science Day;1.0;7.0
+Plan Data Challenge;2.0;124.0
+STAT 3375 practice problems - mgf for discrete distributions;2.0;26.0
+STAT 3675 Homework 2;3.0;11.0
+Put together poster presentation for fall frontiers;4.0;33.0
+Honors Leadership Project Planning;2.0;1919.0
+Delphi run validation testing;3.0;11.0
+Delphi run latency testing;3.0;11.0
+Delphi run throughput testing;3.0;11.0
+CS3500 ps3 2;1.0;38.0
+CS3500 ps3 1;1.0;38.0
+CS3500 ps3 5;2.0;38.0
+CS3500 ps3 3;2.0;38.0

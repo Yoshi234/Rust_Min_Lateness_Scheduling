@@ -69,16 +69,27 @@ def find_time_del(days:list, time_dif:int, current:int = 0, total:int=43):
     return sum
 
 # thursday at the 4th work hour - time_dif=4, deadline_hour=4
-def find_deadline(days:list, time_dif:int, start_hour:int=0, deadline_hour:int = 0, current:int = 0, total:int=43):
+def find_deadline(days:list, time_dif:int, start_hour:int=0, deadline_hour:int = 0, current:int = 0, final:int=0, total:int=43):
     n = len(days)
     sum = (time_dif//n)*total
     remain = time_dif%n
-    sum += (days[current].hours - start_hour)
+
+    if time_dif == 0 and current==final:
+        sum += deadline_hour - start_hour
+        # don't need to bother with additional calculations if same day
+        return sum
+    else:
+        sum += (days[current].hours - start_hour)
+        sum += deadline_hour
+
+    current += 1
+    if current == n: current = 0
     while remain != 0:
-        sum += days[current+1].hours
+        sum += days[current].hours
         current += 1
+        if current == n: current = 0
         remain -= 1
-    sum += deadline_hour
+    
     return sum
 
 def get_new_assignments(days:list, current:datetime):
@@ -105,13 +116,13 @@ def get_new_assignments(days:list, current:datetime):
             continue
 
         deadline_hour = time_to_hour(days, deadline_hour, date1.weekday())
-        time_diff = (date1.day-current_date.day)
+        time_diff = None
         if date1.date() == current_date.date():
             time_diff=0
         else:
             time_diff=(date1-current_date).days
         
-        final_deadline = find_deadline(days, time_diff, start_hour, deadline_hour, current_date.weekday(), 41)
+        final_deadline = find_deadline(days, time_diff, start_hour, deadline_hour, current_date.weekday(), date1.weekday(), 41)
         new_assign = Assign(name=name, duration=duration, deadline=final_deadline)
         new_assignments.append(new_assign)
     return new_assignments

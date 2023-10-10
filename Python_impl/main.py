@@ -41,6 +41,8 @@ def get_hour_dif(days:list, time_dif:int, prev_day:int, current_day:int, prev_ho
     # if time_dif == 0 and (prev_hour > current_hour): 
     #     print("Error - the time entered is before the previous date")
     #     return None
+    current_hour = time_to_hour(days, current_hour, current_day)
+    prev_hour = time_to_hour(days, prev_hour, prev_day)
     if time_dif == 0:
         return current_hour - prev_hour
     
@@ -75,7 +77,7 @@ def find_deadline(days:list, time_dif:int, start_hour:int=0, deadline_hour:int =
         sum += days[current].hours
         current += 1
         remain -= 1
-    sum += deadline_hour - start_hour
+    sum += (deadline_hour - start_hour)
     return sum
 
 def get_new_assignments(days:list, current:datetime):
@@ -102,7 +104,11 @@ def get_new_assignments(days:list, current:datetime):
             continue
 
         deadline_hour = time_to_hour(days, deadline_hour, date1.weekday())
-        time_diff = (date1-current_date).days
+        time_diff = (date1.day-current_date.day)
+        if date1.date() == current_date.date():
+            time_diff=0
+        else:
+            time_diff=(date1-current_date).days
         
         final_deadline = find_deadline(days, time_diff, start_hour, deadline_hour, current_date.weekday(), 41)
         new_assign = Assign(name=name, duration=duration, deadline=final_deadline)

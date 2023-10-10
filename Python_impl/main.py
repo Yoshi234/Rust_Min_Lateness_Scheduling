@@ -73,11 +73,12 @@ def find_deadline(days:list, time_dif:int, start_hour:int=0, deadline_hour:int =
     n = len(days)
     sum = (time_dif//n)*total
     remain = time_dif%n
+    sum += (days[current].hours - start_hour)
     while remain != 0:
-        sum += days[current].hours
+        sum += days[current+1].hours
         current += 1
         remain -= 1
-    sum += (deadline_hour - start_hour)
+    sum += deadline_hour
     return sum
 
 def get_new_assignments(days:list, current:datetime):

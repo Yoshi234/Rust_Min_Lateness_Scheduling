@@ -1,0 +1,28 @@
+2023-10-09;20
+Prepare study outline for STAT 3375 exam;1;9
+Apply for Taiwan Nvidia internship;1.0;64.0
+stat problems - continuous mgf computation;2.0;41.0
+CSE 3500 PS3 - p5;1.0;45.0
+Delphi Model Validation;3.0;24.0
+CSE 3500 PS3 - p2;1.0;45.0
+Delphi Model Throughput;3.0;24.0
+STAT 3515 EP4 - Incomplete Block Design (Latin Squares);1.0;9.0
+STAT 3515 EP2 - One Way Random Effects;1.0;9.0
+Register for Data Science Day Poster Session;0.5;13.0
+STAT 3515 EP1 - One-Way Fixed Effects;1.0;9.0
+CSE 3500 PS3 - p1;1.0;45.0
+Compile and print notes for Test;2.0;19.0
+STAT 3515 Homework;3.0;22.0
+Compile Class Notes - 10/9 + 10/10;2.0;19.0
+STAT 3515 EP5 - Incomplete Block Design (Greco Latin Squares);1.0;9.0
+Print Poster Presentation for Fall Frontiers;2.0;45.0
+Compile Class Notes - 10/11 + 10/12 + 10/13;3.0;38.0
+Delphi Model Latency;3.0;24.0
+STAT 3675 Homework;3.0;23.0
+STAT 3515 EP5 - Two-Way factorial Completely randomized Fixed WEffects;1.0;8.0
+Fill out Honors Plan + Submit;1.0;144.0
+CSE 3500 PS3 - p3;1.0;45.0
+Put together Poster Presentation for Fall Frontiers;5.0;38.0
+Data Challenge Outline - timeline work;2.0;144.0
+STAT 3515 EP7 - Three-Way Factorial Completely ranomized Fixed Effects;1.0;8.0
+STAT 3515 EP3 - Randomized Complete Block Design;1.0;9.0

@@ -1,104 +1,108 @@
-0 STAT 3515 Weakness Identification -> dur: 1 -> deadline: -18
+0 STAT 3515 EP5 - Two-Way factorial Completely randomized Fixed WEffects -> dur: 1.0 -> deadline: 8.0
 	 at time 0
-Lateness: -19
-----------------------------------------------------------------------------------------------------
-1 Apply for NVIDIA Internships of Interest -> dur: 1 -> deadline: -1
-	 at time 1
-Lateness: -3
-----------------------------------------------------------------------------------------------------
-2 STAT 3515 EP7 - Three-Way Factorial Completely ranomized Fixed Effects -> dur: 2 -> deadline: 5
-	 at time 2
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-3 STAT 3515 EP5 - Two-Way factorial Completely randomized Fixed WEffects -> dur: 2 -> deadline: 5
-	 at time 4
+1 STAT 3515 EP7 - Three-Way Factorial Completely ranomized Fixed Effects -> dur: 1.0 -> deadline: 8.0
+	 at time 1.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-4 STAT 3515 EP1 - One-Way Fixed Effects -> dur: 2 -> deadline: 6
-	 at time 6
-Lateness: -2
+2 Prepare study outline for STAT 3375 exam -> dur: 1 -> deadline: 9
+	 at time 2.0
+Lateness: 0
 ----------------------------------------------------------------------------------------------------
-5 STAT 3515 EP3 - Randomized Complete Block Design -> dur: 2 -> deadline: 6
-	 at time 8
-Lateness: -4
+3 STAT 3515 EP4 - Incomplete Block Design (Latin Squares) -> dur: 1.0 -> deadline: 9.0
+	 at time 3.0
+Lateness: 0
 ----------------------------------------------------------------------------------------------------
-6 STAT 3515 EP4 - Incomplete Block Design (Latin Squares) -> dur: 2 -> deadline: 6
-	 at time 10
-Lateness: -6
+4 STAT 3515 EP2 - One Way Random Effects -> dur: 1.0 -> deadline: 9.0
+	 at time 4.0
+Lateness: 0
 ----------------------------------------------------------------------------------------------------
-7 STAT 3515 EP5 - Incomplete Block Design (Greco Latin Squares) -> dur: 2 -> deadline: 6
-	 at time 12
-Lateness: -8
+5 STAT 3515 EP1 - One-Way Fixed Effects -> dur: 1.0 -> deadline: 9.0
+	 at time 5.0
+Lateness: 0
 ----------------------------------------------------------------------------------------------------
-8 STAT 3515 EP2 - One Way Random Effects -> dur: 2 -> deadline: 6
-	 at time 14
-Lateness: -10
+6 STAT 3515 EP5 - Incomplete Block Design (Greco Latin Squares) -> dur: 1.0 -> deadline: 9.0
+	 at time 6.0
+Lateness: 0
 ----------------------------------------------------------------------------------------------------
-9 Register for Data Science Day Poster Session -> dur: 0.5 -> deadline: 10
-	 at time 16
-Lateness: -6.5
+7 STAT 3515 EP3 - Randomized Complete Block Design -> dur: 1.0 -> deadline: 9.0
+	 at time 7.0
+Lateness: 0
 ----------------------------------------------------------------------------------------------------
-10 Compile Class Notes - 10/9 + 10/10 -> dur: 2 -> deadline: 16
-	 at time 16.5
-Lateness: -2.5
+8 Register for Data Science Day Poster Session -> dur: 0.5 -> deadline: 13.0
+	 at time 8.0
+Lateness: 0
 ----------------------------------------------------------------------------------------------------
-11 Compile and print notes for Test -> dur: 2 -> deadline: 16
+9 Compile and print notes for Test -> dur: 2.0 -> deadline: 19.0
+	 at time 8.5
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+10 Compile Class Notes - 10/9 + 10/10 -> dur: 2.0 -> deadline: 19.0
+	 at time 10.5
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+11 STAT 3515 Homework -> dur: 3.0 -> deadline: 22.0
+	 at time 12.5
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+12 STAT 3675 Homework -> dur: 3.0 -> deadline: 23.0
+	 at time 15.5
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+13 Delphi Model Validation -> dur: 3.0 -> deadline: 24.0
 	 at time 18.5
-Lateness: -4.5
+Lateness: 0
 ----------------------------------------------------------------------------------------------------
-12 STAT 3515 Homework -> dur: 3 -> deadline: 19
-	 at time 20.5
-Lateness: -4.5
+14 Delphi Model Throughput -> dur: 3.0 -> deadline: 24.0
+	 at time 21.5
+Lateness: 0
 ----------------------------------------------------------------------------------------------------
-13 STAT 3675 Homework -> dur: 3 -> deadline: 20
-	 at time 23.5
-Lateness: -6.5
-----------------------------------------------------------------------------------------------------
-14 Delphi Model Throughput -> dur: 3 -> deadline: 21
-	 at time 26.5
-Lateness: -8.5
-----------------------------------------------------------------------------------------------------
-15 Delphi Model Latency -> dur: 3 -> deadline: 21
-	 at time 29.5
-Lateness: -11.5
-----------------------------------------------------------------------------------------------------
-16 Delphi Model Validation -> dur: 3 -> deadline: 21
-	 at time 32.5
-Lateness: -14.5
-----------------------------------------------------------------------------------------------------
-17 Put together Poster Presentation for Fall Frontiers -> dur: 5 -> deadline: 35
-	 at time 35.5
-Lateness: -5.5
-----------------------------------------------------------------------------------------------------
-18 Compile Class Notes - 10/11 + 10/12 + 10/13 -> dur: 3 -> deadline: 35
-	 at time 40.5
-Lateness: -8.5
-----------------------------------------------------------------------------------------------------
-19 CSE 3500 PS3 - p5 -> dur: 1 -> deadline: 42
-	 at time 43.5
-Lateness: -2.5
-----------------------------------------------------------------------------------------------------
-20 CSE 3500 PS3 - p3 -> dur: 1 -> deadline: 42
-	 at time 44.5
+15 Delphi Model Latency -> dur: 3.0 -> deadline: 24.0
+	 at time 24.5
 Lateness: -3.5
 ----------------------------------------------------------------------------------------------------
-21 CSE 3500 PS3 - p2 -> dur: 1 -> deadline: 42
-	 at time 45.5
-Lateness: -4.5
-----------------------------------------------------------------------------------------------------
-22 Print Poster Presentation for Fall Frontiers -> dur: 2 -> deadline: 42
-	 at time 46.5
-Lateness: -6.5
-----------------------------------------------------------------------------------------------------
-23 CSE 3500 PS3 - p1 -> dur: 1 -> deadline: 42
-	 at time 48.5
-Lateness: -7.5
-----------------------------------------------------------------------------------------------------
-24 Data Challenge Outline - timeline work -> dur: 2 -> deadline: 141
-	 at time 49.5
+16 Compile Class Notes - 10/11 + 10/12 + 10/13 -> dur: 3.0 -> deadline: 38.0
+	 at time 27.5
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-25 Fill out Honors Plan + Submit -> dur: 1 -> deadline: 141
-	 at time 51.5
+17 Put together Poster Presentation for Fall Frontiers -> dur: 5.0 -> deadline: 38.0
+	 at time 30.5
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+18 stat problems - continuous mgf computation -> dur: 2.0 -> deadline: 41.0
+	 at time 35.5
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+19 CSE 3500 PS3 - p5 -> dur: 1.0 -> deadline: 45.0
+	 at time 37.5
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+20 CSE 3500 PS3 - p2 -> dur: 1.0 -> deadline: 45.0
+	 at time 38.5
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+21 CSE 3500 PS3 - p1 -> dur: 1.0 -> deadline: 45.0
+	 at time 39.5
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+22 Print Poster Presentation for Fall Frontiers -> dur: 2.0 -> deadline: 45.0
+	 at time 40.5
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+23 CSE 3500 PS3 - p3 -> dur: 1.0 -> deadline: 45.0
+	 at time 42.5
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+24 Apply for Taiwan Nvidia internship -> dur: 1.0 -> deadline: 64.0
+	 at time 43.5
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+25 Fill out Honors Plan + Submit -> dur: 1.0 -> deadline: 144.0
+	 at time 44.5
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+26 Data Challenge Outline - timeline work -> dur: 2.0 -> deadline: 144.0
+	 at time 45.5
 Lateness: 0
 ----------------------------------------------------------------------------------------------------

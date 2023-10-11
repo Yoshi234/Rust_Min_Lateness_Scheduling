@@ -46,15 +46,15 @@ Lateness: 0
 	 at time 19.0
 Lateness: -2.0
 ----------------------------------------------------------------------------------------------------
-12 Compile notes for CSE 3500 lecture 10/10 -> dur: 1 -> deadline: 21
+12 Compile notes for CSE 3500 lecture 10/10 -> dur: 1.0 -> deadline: 21.0
 	 at time 21.0
 Lateness: -1.0
 ----------------------------------------------------------------------------------------------------
-13 Compile notes for STAT 3375 lecture 10/09 and 10/11 -> dur: 2 -> deadline: 21
+13 Compile notes for STAT 3375 lecture 10/09 and 10/11 -> dur: 2.0 -> deadline: 21.0
 	 at time 22.0
 Lateness: -3.0
 ----------------------------------------------------------------------------------------------------
-14 Compile notes for CSE 3500 lecture 10/12 -> dur: 1 -> deadline: 21
+14 Compile notes for CSE 3500 lecture 10/12 -> dur: 1.0 -> deadline: 21.0
 	 at time 24.0
 Lateness: -4.0
 ----------------------------------------------------------------------------------------------------
@@ -86,23 +86,27 @@ Lateness: -5.0
 	 at time 36.0
 Lateness: -7.0
 ----------------------------------------------------------------------------------------------------
-22 Honors GPS office hours - get help with the honors plan of study -> dur: 2.0 -> deadline: 62.0
+22 write up a 1 page cheat sheet for STAT 3375 exam (one-sided) -> dur: 2 -> deadline: 37
 	 at time 38.0
-Lateness: 0
+Lateness: -3.0
 ----------------------------------------------------------------------------------------------------
-23 NVIDIA Leetcode Technical Review - easy, medium -> dur: 2.0 -> deadline: 69.0
+23 Honors GPS office hours - get help with the honors plan of study -> dur: 2.0 -> deadline: 62.0
 	 at time 40.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-24 Plan Data Challenge -> dur: 2.0 -> deadline: 117.0
+24 NVIDIA Leetcode Technical Review - easy, medium -> dur: 2.0 -> deadline: 69.0
 	 at time 42.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-25 Fill out honors plan of study -> dur: 2.0 -> deadline: 123.0
+25 Plan Data Challenge -> dur: 2.0 -> deadline: 117.0
 	 at time 44.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-26 Honors Leadership Project Planning -> dur: 2.0 -> deadline: 1912.0
+26 Fill out honors plan of study -> dur: 2.0 -> deadline: 123.0
 	 at time 46.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+27 Honors Leadership Project Planning -> dur: 2.0 -> deadline: 1912.0
+	 at time 48.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------

@@ -1,7 +1,8 @@
-2023-10-11;13
-Compile notes for CSE 3500 lecture 10/10;1;21
-Compile notes for STAT 3375 lecture 10/09 and 10/11;2;21
-Compile notes for CSE 3500 lecture 10/12;1;21
+2023-10-11;14
+write up a 1 page cheat sheet for STAT 3375 exam (one-sided);2;37
+Compile notes for CSE 3500 lecture 10/10;1.0;21.0
+Compile notes for STAT 3375 lecture 10/09 and 10/11;2.0;21.0
+Compile notes for CSE 3500 lecture 10/12;1.0;21.0
 Honors GPS office hours - get help with the honors plan of study;2.0;62.0
 NVIDIA Leetcode Technical Review - easy, medium;2.0;69.0
 Prepare study plan for STAT 3375;2.0;28.0

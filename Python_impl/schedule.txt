@@ -1,104 +1,104 @@
-0 STAT 3515 1 problem randomized incomplete block latin squares -> dur: 1.0 -> deadline: -6.0
+0 STAT 3515 - additional 2 factorial design problem  -> dur: 1.0 -> deadline: -3.0
 	 at time 0
-Lateness: -7.0
+Lateness: -4.0
 ----------------------------------------------------------------------------------------------------
-1 STAT 3515 - additional 2 factorial design problem  -> dur: 1.0 -> deadline: -2.0
+1 submit stats homework -> dur: 1.0 -> deadline: -1.0
 	 at time 1.0
-Lateness: -4.0
+Lateness: -3.0
 ----------------------------------------------------------------------------------------------------
-2 submit stats homework -> dur: 1.0 -> deadline: 0.0
+2 Register for Data Science Day -> dur: 1.0 -> deadline: -1.0
 	 at time 2.0
-Lateness: -3.0
-----------------------------------------------------------------------------------------------------
-3 Register for Data Science Day -> dur: 1.0 -> deadline: 0.0
-	 at time 3.0
 Lateness: -4.0
 ----------------------------------------------------------------------------------------------------
-4 STAT 3675 Homework 2 -> dur: 3.0 -> deadline: 4.0
-	 at time 4.0
+3 STAT 3675 Homework 2 -> dur: 3.0 -> deadline: 3.0
+	 at time 3.0
 Lateness: -3.0
 ----------------------------------------------------------------------------------------------------
-5 Delphi run validation testing -> dur: 3.0 -> deadline: 4.0
-	 at time 7.0
+4 Delphi run validation testing -> dur: 3.0 -> deadline: 3.0
+	 at time 6.0
 Lateness: -6.0
 ----------------------------------------------------------------------------------------------------
-6 Delphi run latency testing -> dur: 3.0 -> deadline: 4.0
-	 at time 10.0
+5 Delphi run latency testing -> dur: 3.0 -> deadline: 3.0
+	 at time 9.0
 Lateness: -9.0
 ----------------------------------------------------------------------------------------------------
-7 Delphi run throughput testing -> dur: 3.0 -> deadline: 4.0
-	 at time 13.0
+6 Delphi run throughput testing -> dur: 3.0 -> deadline: 3.0
+	 at time 12.0
 Lateness: -12.0
 ----------------------------------------------------------------------------------------------------
-8 Apply for NVIDIA taipei internship -> dur: 1.0 -> deadline: 19.0
+7 Apply for NVIDIA taipei internship -> dur: 1.0 -> deadline: 18.0
+	 at time 15.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+8 STAT 3375 practice problems - mgf for discrete distributions -> dur: 2.0 -> deadline: 18.0
 	 at time 16.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-9 STAT 3375 practice problems - mgf for discrete distributions -> dur: 2.0 -> deadline: 19.0
-	 at time 17.0
+9 Compile notes for CSE 3500 lecture 10/10 -> dur: 1.0 -> deadline: 20.0
+	 at time 18.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-10 Compile notes for CSE 3500 lecture 10/10 -> dur: 1.0 -> deadline: 21.0
+10 Compile notes for STAT 3375 lecture 10/09 and 10/11 -> dur: 2.0 -> deadline: 20.0
 	 at time 19.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-11 Compile notes for STAT 3375 lecture 10/09 and 10/11 -> dur: 2.0 -> deadline: 21.0
-	 at time 20.0
-Lateness: 0
-----------------------------------------------------------------------------------------------------
-12 Compile notes for CSE 3500 lecture 10/12 -> dur: 1.0 -> deadline: 21.0
-	 at time 22.0
+11 Compile notes for CSE 3500 lecture 10/12 -> dur: 1.0 -> deadline: 20.0
+	 at time 21.0
 Lateness: -2.0
 ----------------------------------------------------------------------------------------------------
-13 Put together poster presentation for fall frontiers -> dur: 4.0 -> deadline: 26.0
+12 Send email to NVIDIA recruiter - did not hear back about my application yet -> dur: 1 -> deadline: 25
+	 at time 22.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+13 Put together poster presentation for fall frontiers -> dur: 4.0 -> deadline: 25.0
 	 at time 23.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-14 Prepare study plan for STAT 3375 -> dur: 2.0 -> deadline: 28.0
+14 Prepare study plan for STAT 3375 -> dur: 2.0 -> deadline: 27.0
 	 at time 27.0
-Lateness: 0
-----------------------------------------------------------------------------------------------------
-15 Prepare study plan for STAT 3675 -> dur: 1.0 -> deadline: 28.0
-	 at time 29.0
 Lateness: -2.0
 ----------------------------------------------------------------------------------------------------
-16 CS3500 ps3 2 -> dur: 1.0 -> deadline: 31.0
-	 at time 30.0
-Lateness: 0
-----------------------------------------------------------------------------------------------------
-17 CS3500 ps3 1 -> dur: 1.0 -> deadline: 31.0
-	 at time 31.0
-Lateness: -1.0
-----------------------------------------------------------------------------------------------------
-18 CS3500 ps3 5 -> dur: 2.0 -> deadline: 31.0
-	 at time 32.0
+15 Prepare study plan for STAT 3675 -> dur: 1.0 -> deadline: 27.0
+	 at time 29.0
 Lateness: -3.0
 ----------------------------------------------------------------------------------------------------
-19 CS3500 ps3 3 -> dur: 2.0 -> deadline: 31.0
+16 CS3500 ps3 2 -> dur: 1.0 -> deadline: 30.0
+	 at time 30.0
+Lateness: -1.0
+----------------------------------------------------------------------------------------------------
+17 CS3500 ps3 1 -> dur: 1.0 -> deadline: 30.0
+	 at time 31.0
+Lateness: -2.0
+----------------------------------------------------------------------------------------------------
+18 CS3500 ps3 5 -> dur: 2.0 -> deadline: 30.0
+	 at time 32.0
+Lateness: -4.0
+----------------------------------------------------------------------------------------------------
+19 CS3500 ps3 3 -> dur: 2.0 -> deadline: 30.0
 	 at time 34.0
-Lateness: -5.0
+Lateness: -6.0
 ----------------------------------------------------------------------------------------------------
-20 write up a 1 page cheat sheet for STAT 3375 exam (one-sided) -> dur: 2.0 -> deadline: 37.0
+20 write up a 1 page cheat sheet for STAT 3375 exam (one-sided) -> dur: 2.0 -> deadline: 36.0
 	 at time 36.0
-Lateness: 0
+Lateness: -2.0
 ----------------------------------------------------------------------------------------------------
-21 Honors GPS office hours - get help with the honors plan of study -> dur: 2.0 -> deadline: 62.0
+21 Honors GPS office hours - get help with the honors plan of study -> dur: 2.0 -> deadline: 61.0
 	 at time 38.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-22 NVIDIA Leetcode Technical Review - easy, medium -> dur: 2.0 -> deadline: 69.0
+22 NVIDIA Leetcode Technical Review - easy, medium -> dur: 2.0 -> deadline: 68.0
 	 at time 40.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-23 Plan Data Challenge -> dur: 2.0 -> deadline: 117.0
+23 Plan Data Challenge -> dur: 2.0 -> deadline: 116.0
 	 at time 42.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-24 Fill out honors plan of study -> dur: 2.0 -> deadline: 123.0
+24 Fill out honors plan of study -> dur: 2.0 -> deadline: 122.0
 	 at time 44.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-25 Honors Leadership Project Planning -> dur: 2.0 -> deadline: 1912.0
+25 Honors Leadership Project Planning -> dur: 2.0 -> deadline: 1911.0
 	 at time 46.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------

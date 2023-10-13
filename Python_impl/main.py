@@ -55,7 +55,7 @@ def get_hour_dif(days:list, time_dif:int, prev_day:int, current_day:int, prev_ho
         remain -= 1
     sum += (days[prev_day].hours - prev_hour)
     sum -= (days[current_day].hours - current_hour)
-    return sum
+    return sum-2
 
 # today = 0
 def find_time_del(days:list, time_dif:int, current:int = 0, total:int=43):

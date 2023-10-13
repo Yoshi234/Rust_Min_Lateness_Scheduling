@@ -1,4 +1,0 @@
-2023-10-10;8
-Fill out honors plan of study;2.0;128.0
-Apply for NVIDIA taipei internship;1.0;21.0
-

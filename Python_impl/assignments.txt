@@ -1,24 +1,23 @@
-2023-10-13;14
-Get Poster Printed for Wednesday Presentation at Frontiers;2;23
-STAT 3375 Practice Problems - MGF Calculations for Continuous Distributions;2;27
-STAT 3375 Practice Problems - MGF Calculations for Discrete Distributions;2;27
-Apply for NVIDIA revenue analytics ML intern 2024;1.0;18.0
-Post-processing for Delphi Experiments (latency, validation, throughput);2.0;18.0
-Update the structure of delphi repo - move validation samples to the corresponding folder compactCNN (so everything is in the same place);1.0;52.0
-Send email to NVIDIA recruiter - did not hear back about my application yet;1.0;15.0
-write up a 1 page cheat sheet for STAT 3375 exam (one-sided);2.0;26.0
-Compile notes for CSE 3500 lecture 10/10;1.0;10.0
-Compile notes for STAT 3375 lecture 10/09 and 10/11;2.0;10.0
-Compile notes for CSE 3500 lecture 10/12;1.0;10.0
-Honors GPS office hours - get help with the honors plan of study;2.0;51.0
-NVIDIA Leetcode Technical Review - easy, medium;2.0;58.0
-Prepare study plan for STAT 3375;2.0;17.0
-Prepare study plan for STAT 3675;1.0;17.0
-Fill out honors plan of study;2.0;112.0
-Plan Data Challenge;2.0;106.0
-Put together poster presentation for fall frontiers;4.0;15.0
-Honors Leadership Project Planning;2.0;1901.0
-CS3500 ps3 2;1.0;20.0
-CS3500 ps3 1;1.0;20.0
-CS3500 ps3 5;2.0;20.0
-CS3500 ps3 3;2.0;20.0
+2023-10-14;8
+Get Poster Printed for Wednesday Presentation at Frontiers;2.0;20.0
+STAT 3375 Practice Problems - MGF Calculations for Continuous Distributions;2.0;24.0
+STAT 3375 Practice Problems - MGF Calculations for Discrete Distributions;2.0;24.0
+Apply for NVIDIA revenue analytics ML intern 2024;1.0;15.0
+Post-processing for Delphi Experiments (latency, validation, throughput);2.0;15.0
+Update the structure of delphi repo - move validation samples to the corresponding folder compactCNN (so everything is in the same place);1.0;49.0
+Send email to NVIDIA recruiter - did not hear back about my application yet;1.0;12.0
+write up a 1 page cheat sheet for STAT 3375 exam (one-sided);2.0;23.0
+Compile notes for STAT 3375 lecture 10/09 and 10/11;2.0;7.0
+Compile notes for CSE 3500 lecture 10/12;1.0;7.0
+Honors GPS office hours - get help with the honors plan of study;2.0;48.0
+NVIDIA Leetcode Technical Review - easy, medium;2.0;55.0
+Prepare study plan for STAT 3375;2.0;14.0
+Prepare study plan for STAT 3675;1.0;14.0
+Fill out honors plan of study;2.0;109.0
+Plan Data Challenge;2.0;103.0
+Put together poster presentation for fall frontiers;4.0;12.0
+Honors Leadership Project Planning;2.0;1898.0
+CS3500 ps3 2;1.0;17.0
+CS3500 ps3 1;1.0;17.0
+CS3500 ps3 5;2.0;17.0
+CS3500 ps3 3;2.0;17.0

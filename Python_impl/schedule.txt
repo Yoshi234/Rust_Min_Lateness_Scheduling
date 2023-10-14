@@ -1,92 +1,88 @@
-0 Compile notes for CSE 3500 lecture 10/10 -> dur: 1.0 -> deadline: 10.0
+0 Compile notes for STAT 3375 lecture 10/09 and 10/11 -> dur: 2.0 -> deadline: 7.0
 	 at time 0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-1 Compile notes for STAT 3375 lecture 10/09 and 10/11 -> dur: 2.0 -> deadline: 10.0
-	 at time 1.0
+1 Compile notes for CSE 3500 lecture 10/12 -> dur: 1.0 -> deadline: 7.0
+	 at time 2.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-2 Compile notes for CSE 3500 lecture 10/12 -> dur: 1.0 -> deadline: 10.0
+2 Send email to NVIDIA recruiter - did not hear back about my application yet -> dur: 1.0 -> deadline: 12.0
 	 at time 3.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-3 Send email to NVIDIA recruiter - did not hear back about my application yet -> dur: 1.0 -> deadline: 15.0
+3 Put together poster presentation for fall frontiers -> dur: 4.0 -> deadline: 12.0
 	 at time 4.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-4 Put together poster presentation for fall frontiers -> dur: 4.0 -> deadline: 15.0
-	 at time 5.0
+4 Prepare study plan for STAT 3375 -> dur: 2.0 -> deadline: 14.0
+	 at time 8.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-5 Prepare study plan for STAT 3375 -> dur: 2.0 -> deadline: 17.0
-	 at time 9.0
+5 Prepare study plan for STAT 3675 -> dur: 1.0 -> deadline: 14.0
+	 at time 10.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-6 Prepare study plan for STAT 3675 -> dur: 1.0 -> deadline: 17.0
+6 Apply for NVIDIA revenue analytics ML intern 2024 -> dur: 1.0 -> deadline: 15.0
 	 at time 11.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-7 Apply for NVIDIA revenue analytics ML intern 2024 -> dur: 1.0 -> deadline: 18.0
+7 Post-processing for Delphi Experiments (latency, validation, throughput) -> dur: 2.0 -> deadline: 15.0
 	 at time 12.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-8 Post-processing for Delphi Experiments (latency, validation, throughput) -> dur: 2.0 -> deadline: 18.0
-	 at time 13.0
+8 CS3500 ps3 2 -> dur: 1.0 -> deadline: 17.0
+	 at time 14.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-9 CS3500 ps3 2 -> dur: 1.0 -> deadline: 20.0
+9 CS3500 ps3 1 -> dur: 1.0 -> deadline: 17.0
 	 at time 15.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-10 CS3500 ps3 1 -> dur: 1.0 -> deadline: 20.0
+10 CS3500 ps3 5 -> dur: 2.0 -> deadline: 17.0
 	 at time 16.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-11 CS3500 ps3 5 -> dur: 2.0 -> deadline: 20.0
-	 at time 17.0
-Lateness: 0
+11 CS3500 ps3 3 -> dur: 2.0 -> deadline: 17.0
+	 at time 18.0
+Lateness: -3.0
 ----------------------------------------------------------------------------------------------------
-12 CS3500 ps3 3 -> dur: 2.0 -> deadline: 20.0
-	 at time 19.0
-Lateness: 0
-----------------------------------------------------------------------------------------------------
-13 Get Poster Printed for Wednesday Presentation at Frontiers -> dur: 2 -> deadline: 23
-	 at time 21.0
-Lateness: 0
-----------------------------------------------------------------------------------------------------
-14 write up a 1 page cheat sheet for STAT 3375 exam (one-sided) -> dur: 2.0 -> deadline: 26.0
-	 at time 23.0
-Lateness: 0
-----------------------------------------------------------------------------------------------------
-15 STAT 3375 Practice Problems - MGF Calculations for Continuous Distributions -> dur: 2 -> deadline: 27
-	 at time 25.0
-Lateness: 0
-----------------------------------------------------------------------------------------------------
-16 STAT 3375 Practice Problems - MGF Calculations for Discrete Distributions -> dur: 2 -> deadline: 27
-	 at time 27.0
+12 Get Poster Printed for Wednesday Presentation at Frontiers -> dur: 2.0 -> deadline: 20.0
+	 at time 20.0
 Lateness: -2.0
 ----------------------------------------------------------------------------------------------------
-17 Honors GPS office hours - get help with the honors plan of study -> dur: 2.0 -> deadline: 51.0
-	 at time 29.0
+13 write up a 1 page cheat sheet for STAT 3375 exam (one-sided) -> dur: 2.0 -> deadline: 23.0
+	 at time 22.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-18 Update the structure of delphi repo - move validation samples to the corresponding folder compactCNN (so everything is in the same place) -> dur: 1.0 -> deadline: 52.0
+14 STAT 3375 Practice Problems - MGF Calculations for Continuous Distributions -> dur: 2.0 -> deadline: 24.0
+	 at time 24.0
+Lateness: -2.0
+----------------------------------------------------------------------------------------------------
+15 STAT 3375 Practice Problems - MGF Calculations for Discrete Distributions -> dur: 2.0 -> deadline: 24.0
+	 at time 26.0
+Lateness: -4.0
+----------------------------------------------------------------------------------------------------
+16 Honors GPS office hours - get help with the honors plan of study -> dur: 2.0 -> deadline: 48.0
+	 at time 28.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+17 Update the structure of delphi repo - move validation samples to the corresponding folder compactCNN (so everything is in the same place) -> dur: 1.0 -> deadline: 49.0
+	 at time 30.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+18 NVIDIA Leetcode Technical Review - easy, medium -> dur: 2.0 -> deadline: 55.0
 	 at time 31.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-19 NVIDIA Leetcode Technical Review - easy, medium -> dur: 2.0 -> deadline: 58.0
-	 at time 32.0
+19 Plan Data Challenge -> dur: 2.0 -> deadline: 103.0
+	 at time 33.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-20 Plan Data Challenge -> dur: 2.0 -> deadline: 106.0
-	 at time 34.0
+20 Fill out honors plan of study -> dur: 2.0 -> deadline: 109.0
+	 at time 35.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-21 Fill out honors plan of study -> dur: 2.0 -> deadline: 112.0
-	 at time 36.0
-Lateness: 0
-----------------------------------------------------------------------------------------------------
-22 Honors Leadership Project Planning -> dur: 2.0 -> deadline: 1901.0
-	 at time 38.0
+21 Honors Leadership Project Planning -> dur: 2.0 -> deadline: 1898.0
+	 at time 37.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------

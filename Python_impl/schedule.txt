@@ -1,104 +1,88 @@
-0 STAT 3375 Practice Problems (Hypergeometric Distribution, Poisson Distribution, CDF for discrete random variables, continuous cdf, expected value for continuous random variable) -> dur: 2.0 -> deadline: -1.0
+0 STAT 3515 Homework 7 -> dur: 3.0 -> deadline: 3.0
 	 at time 0
-Lateness: -3.0
+Lateness: 0
 ----------------------------------------------------------------------------------------------------
-1 STAT 3375 Practice Problems (set laws, prob axioms, binom theorem, existence of expected value, bernouli distrib, binomial distrib, geometric distrib, negative binomial distrib) -> dur: 3.0 -> deadline: -1.0
-	 at time 2.0
-Lateness: -6.0
+1 Complete all assignments listed in email from NESS (Xiaohan Guo) for DSDay setup -> dur: 1.0 -> deadline: 11.0
+	 at time 3.0
+Lateness: 0
 ----------------------------------------------------------------------------------------------------
-2 write up a 1 page cheat sheet for STAT 3375 exam (one-sided) -> dur: 2.0 -> deadline: -1.0
+2 Set meeting appointment with Dr. Schifano - class registration for next semester + internships + what I need to do to get to MIT for DSML -> dur: 1.0 -> deadline: 12.0
+	 at time 4.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+3 Set meeting appointment with Dr. Hong - discuss what I need to do to get into MIT/Berkley (what should my goals be for the next year and a half) -> dur: 1.0 -> deadline: 12.0
 	 at time 5.0
-Lateness: -8.0
+Lateness: 0
 ----------------------------------------------------------------------------------------------------
-3 STAT 3375 Practice Problems - MGF Calculations for Continuous Distributions -> dur: 2.0 -> deadline: 0.0
+4 STAT 3515 - Compile Notes 10/19/23 -> dur: 1.0 -> deadline: 13.0
+	 at time 6.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+5 STAT 3515 - Compile Notes 10/17/23 -> dur: 1.0 -> deadline: 13.0
 	 at time 7.0
-Lateness: -9.0
+Lateness: 0
 ----------------------------------------------------------------------------------------------------
-4 STAT 3375 Practice Problems - MGF Calculations for Discrete Distributions -> dur: 2.0 -> deadline: 0.0
+6 STAT 3375 - Compile Notes 10/20/23 -> dur: 1.0 -> deadline: 13.0
+	 at time 8.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+7 CSE 3500 - Compile Notes 10/17/23 + 10/19/23 -> dur: 2.0 -> deadline: 13.0
 	 at time 9.0
-Lateness: -11.0
+Lateness: 0
 ----------------------------------------------------------------------------------------------------
-5 Practice Presentation for Frontiers -> dur: 1.0 -> deadline: 1.0
+8 Reach out to NVIDIA recruiter after hearing from Ryan (if possible)  -> dur: 1.0 -> deadline: 18.0
 	 at time 11.0
-Lateness: -11.0
+Lateness: 0
 ----------------------------------------------------------------------------------------------------
-6 STAT 3515 Homework 7 -> dur: 3.0 -> deadline: 9.0
+9 Honors GPS office hours - get help with the honors plan of study -> dur: 2.0 -> deadline: 18.0
 	 at time 12.0
-Lateness: -6.0
+Lateness: 0
 ----------------------------------------------------------------------------------------------------
-7 Complete all assignments listed in email from NESS (Xiaohan Guo) for DSDay setup -> dur: 1.0 -> deadline: 17.0
+10 Reach out to recruiter if not heard back about applications by 10/21/23 -> dur: 1.0 -> deadline: 19.0
+	 at time 14.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+11 Update the structure of delphi repo - move validation samples to the corresponding folder compactCNN (so everything is in the same place) -> dur: 1.0 -> deadline: 19.0
 	 at time 15.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-8 Set meeting appointment with Dr. Schifano - class registration for next semester + internships + what I need to do to get to MIT for DSML -> dur: 1.0 -> deadline: 18.0
+12 NVIDIA Leetcode Technical Review - easy, medium -> dur: 2.0 -> deadline: 25.0
 	 at time 16.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-9 Set meeting appointment with Dr. Hong - discuss what I need to do to get into MIT/Berkley (what should my goals be for the next year and a half) -> dur: 1.0 -> deadline: 18.0
-	 at time 17.0
-Lateness: 0
-----------------------------------------------------------------------------------------------------
-10 STAT 3515 - Compile Notes 10/19/23 -> dur: 1.0 -> deadline: 19.0
+13 Debug weight Extraction for Delphi -> dur: 3.0 -> deadline: 27.0
 	 at time 18.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-11 STAT 3515 - Compile Notes 10/17/23 -> dur: 1.0 -> deadline: 19.0
-	 at time 19.0
-Lateness: -1.0
-----------------------------------------------------------------------------------------------------
-12 STAT 3375 - Compile Notes 10/20/23 -> dur: 1.0 -> deadline: 19.0
-	 at time 20.0
-Lateness: -2.0
-----------------------------------------------------------------------------------------------------
-13 CSE 3500 - Compile Notes 10/17/23 + 10/19/23 -> dur: 2.0 -> deadline: 19.0
+14 STAT 3375 Quiz 3 -> dur: 2.0 -> deadline: 27.0
 	 at time 21.0
-Lateness: -4.0
+Lateness: 0
 ----------------------------------------------------------------------------------------------------
-14 Reach out to NVIDIA recruiter after hearing from Ryan (if possible)  -> dur: 1.0 -> deadline: 24.0
+15 STAT 3375 - MGF calculation for discrete distributions -> dur: 3.0 -> deadline: 40.0
 	 at time 23.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-15 Honors GPS office hours - get help with the honors plan of study -> dur: 2.0 -> deadline: 24.0
-	 at time 24.0
-Lateness: -2.0
-----------------------------------------------------------------------------------------------------
-16 Reach out to recruiter if not heard back about applications by 10/21/23 -> dur: 1.0 -> deadline: 25.0
+16 STAT 3375 - MGF calculation for continuous distributions -> dur: 3.0 -> deadline: 40.0
 	 at time 26.0
-Lateness: -2.0
-----------------------------------------------------------------------------------------------------
-17 Update the structure of delphi repo - move validation samples to the corresponding folder compactCNN (so everything is in the same place) -> dur: 1.0 -> deadline: 25.0
-	 at time 27.0
-Lateness: -3.0
-----------------------------------------------------------------------------------------------------
-18 NVIDIA Leetcode Technical Review - easy, medium -> dur: 2.0 -> deadline: 31.0
-	 at time 28.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-19 Debug weight Extraction for Delphi -> dur: 3 -> deadline: 33
-	 at time 30.0
+17 Plan Data Challenge -> dur: 2.0 -> deadline: 73.0
+	 at time 29.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-20 STAT 3375 Quiz 3 -> dur: 2.0 -> deadline: 33.0
-	 at time 33.0
-Lateness: -2.0
+18 Register Team for Data Challenge -> dur: 1.0 -> deadline: 75.0
+	 at time 31.0
+Lateness: 0
 ----------------------------------------------------------------------------------------------------
-21 Plan Data Challenge -> dur: 2.0 -> deadline: 79.0
+19 Fill out honors plan of study -> dur: 2.0 -> deadline: 79.0
+	 at time 32.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+20 Write 300-word Reflection Essay for Presidential Scholar Enrichment Experience -> dur: 1.0 -> deadline: 82.0
+	 at time 34.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+21 Honors Leadership Project Planning -> dur: 2.0 -> deadline: 1868.0
 	 at time 35.0
-Lateness: 0
-----------------------------------------------------------------------------------------------------
-22 Register Team for Data Challenge -> dur: 1.0 -> deadline: 81.0
-	 at time 37.0
-Lateness: 0
-----------------------------------------------------------------------------------------------------
-23 Fill out honors plan of study -> dur: 2.0 -> deadline: 85.0
-	 at time 38.0
-Lateness: 0
-----------------------------------------------------------------------------------------------------
-24 Write 300-word Reflection Essay for Presidential Scholar Enrichment Experience -> dur: 1.0 -> deadline: 88.0
-	 at time 40.0
-Lateness: 0
-----------------------------------------------------------------------------------------------------
-25 Honors Leadership Project Planning -> dur: 2.0 -> deadline: 1874.0
-	 at time 41.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------

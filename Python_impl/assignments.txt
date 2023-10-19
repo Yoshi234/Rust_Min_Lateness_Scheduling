@@ -1,27 +1,23 @@
-2023-10-17;19
-Debug weight Extraction for Delphi;3;33
-Practice Presentation for Frontiers;1.0;1.0
-STAT 3515 - Compile Notes 10/19/23;1.0;19.0
-STAT 3515 - Compile Notes 10/17/23;1.0;19.0
-STAT 3375 - Compile Notes 10/20/23;1.0;19.0
-STAT 3375 Quiz 3;2.0;33.0
-CSE 3500 - Compile Notes 10/17/23 + 10/19/23;2.0;19.0
-Write 300-word Reflection Essay for Presidential Scholar Enrichment Experience;1.0;88.0
-Set meeting appointment with Dr. Schifano - class registration for next semester + internships + what I need to do to get to MIT for DSML;1.0;18.0
-Set meeting appointment with Dr. Hong - discuss what I need to do to get into MIT/Berkley (what should my goals be for the next year and a half);1.0;18.0
-STAT 3515 Homework 7;3.0;9.0
-Reach out to recruiter if not heard back about applications by 10/21/23;1.0;25.0
-STAT 3375 Practice Problems (Hypergeometric Distribution, Poisson Distribution, CDF for discrete random variables, continuous cdf, expected value for continuous random variable);2.0;-1.0
-STAT 3375 Practice Problems (set laws, prob axioms, binom theorem, existence of expected value, bernouli distrib, binomial distrib, geometric distrib, negative binomial distrib);3.0;-1.0
-Reach out to NVIDIA recruiter after hearing from Ryan (if possible) ;1.0;24.0
-Complete all assignments listed in email from NESS (Xiaohan Guo) for DSDay setup;1.0;17.0
-Register Team for Data Challenge;1.0;81.0
-STAT 3375 Practice Problems - MGF Calculations for Continuous Distributions;2.0;0.0
-STAT 3375 Practice Problems - MGF Calculations for Discrete Distributions;2.0;0.0
-Update the structure of delphi repo - move validation samples to the corresponding folder compactCNN (so everything is in the same place);1.0;25.0
-write up a 1 page cheat sheet for STAT 3375 exam (one-sided);2.0;-1.0
-Honors GPS office hours - get help with the honors plan of study;2.0;24.0
-NVIDIA Leetcode Technical Review - easy, medium;2.0;31.0
-Fill out honors plan of study;2.0;85.0
-Plan Data Challenge;2.0;79.0
-Honors Leadership Project Planning;2.0;1874.0
+2023-10-19;0
+STAT 3375 - MGF calculation for discrete distributions;3.0;40.0
+STAT 3375 - MGF calculation for continuous distributions;3.0;40.0
+Debug weight Extraction for Delphi;3.0;27.0
+STAT 3515 - Compile Notes 10/19/23;1.0;13.0
+STAT 3515 - Compile Notes 10/17/23;1.0;13.0
+STAT 3375 - Compile Notes 10/20/23;1.0;13.0
+STAT 3375 Quiz 3;2.0;27.0
+CSE 3500 - Compile Notes 10/17/23 + 10/19/23;2.0;13.0
+Write 300-word Reflection Essay for Presidential Scholar Enrichment Experience;1.0;82.0
+Set meeting appointment with Dr. Schifano - class registration for next semester + internships + what I need to do to get to MIT for DSML;1.0;12.0
+Set meeting appointment with Dr. Hong - discuss what I need to do to get into MIT/Berkley (what should my goals be for the next year and a half);1.0;12.0
+STAT 3515 Homework 7;3.0;3.0
+Reach out to recruiter if not heard back about applications by 10/21/23;1.0;19.0
+Reach out to NVIDIA recruiter after hearing from Ryan (if possible) ;1.0;18.0
+Complete all assignments listed in email from NESS (Xiaohan Guo) for DSDay setup;1.0;11.0
+Register Team for Data Challenge;1.0;75.0
+Update the structure of delphi repo - move validation samples to the corresponding folder compactCNN (so everything is in the same place);1.0;19.0
+Honors GPS office hours - get help with the honors plan of study;2.0;18.0
+NVIDIA Leetcode Technical Review - easy, medium;2.0;25.0
+Fill out honors plan of study;2.0;79.0
+Plan Data Challenge;2.0;73.0
+Honors Leadership Project Planning;2.0;1868.0

@@ -1,124 +1,108 @@
-0 send email to recruiter at "etc@syf.com" - specify that you attended the data science recruitment event and am interested in all sorts of roles, from cybersecurity, to data analytics and even cloud automation -> dur: 1.0 -> deadline: 8.0
+0 Debug weight Extraction for Delphi -> dur: 3.0 -> deadline: -1.0
 	 at time 0
-Lateness: 0
+Lateness: -4.0
 ----------------------------------------------------------------------------------------------------
-1 STAT 3375 - Quiz 3 -> dur: 2.0 -> deadline: 8.0
-	 at time 1.0
-Lateness: 0
-----------------------------------------------------------------------------------------------------
-2 Complete all assignments listed in email from NESS (Xiaohan Guo) for DSDay setup -> dur: 1.0 -> deadline: 8.0
+1 STAT 3375 - Homework Questions from class - joint pdf and marginal distributions for y1 and y2, also show that this is a valid distribution -> dur: 1.0 -> deadline: 7.0
 	 at time 3.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-3 Set meeting appointment with Dr. Schifano - class registration for next semester + internships + what I need to do to get to MIT for DSML -> dur: 1.0 -> deadline: 9.0
+2 STAT 3675 - Homework : Generate Plots of Sum Squared Error and Sum Squared T from page 26 in lecture 8 slides -> dur: 1.0 -> deadline: 9.0
 	 at time 4.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-4 Set meeting appointment with Dr. Hong - discuss what I need to do to get into MIT/Berkley (what should my goals be for the next year and a half) -> dur: 1.0 -> deadline: 9.0
+3 STAT 3515 - Compile notes 10/24 -> dur: 1.0 -> deadline: 9.0
 	 at time 5.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-5 STAT 3515 - Compile Notes 10/19/23 -> dur: 1.0 -> deadline: 10.0
+4 STAT 3375 - Compile notes 10/23 + 10/25 -> dur: 2.0 -> deadline: 9.0
 	 at time 6.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-6 STAT 3515 - Compile Notes 10/17/23 -> dur: 1.0 -> deadline: 10.0
-	 at time 7.0
-Lateness: 0
-----------------------------------------------------------------------------------------------------
-7 STAT 3375 - Compile Notes 10/20/23 -> dur: 1.0 -> deadline: 10.0
+5 CSE 3500 - Compile notes 10/24 -> dur: 1.0 -> deadline: 9.0
 	 at time 8.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-8 CSE 3500 - Compile Notes 10/17/23 + 10/19/23 -> dur: 2.0 -> deadline: 10.0
+6 Get help from a GPS advisor on honors coursework requirements etc. -> dur: 1.0 -> deadline: 9.0
 	 at time 9.0
-Lateness: 0
-----------------------------------------------------------------------------------------------------
-9 STAT 3675 Compile Notes From lecture 10/19/23 -> dur: 2.0 -> deadline: 15.0
-	 at time 11.0
-Lateness: 0
-----------------------------------------------------------------------------------------------------
-10 Reach out to NVIDIA - ML Synthetic Guy from Ryan - reach out about a call  -> dur: 1.0 -> deadline: 15.0
-	 at time 13.0
-Lateness: 0
-----------------------------------------------------------------------------------------------------
-11 Honors GPS office hours - get help with the honors plan of study -> dur: 2.0 -> deadline: 15.0
-	 at time 14.0
-Lateness: 0
-----------------------------------------------------------------------------------------------------
-12 Reach out to recruiter if not heard back about applications by 10/21/23 -> dur: 1.0 -> deadline: 16.0
-	 at time 16.0
 Lateness: -1.0
 ----------------------------------------------------------------------------------------------------
-13 Update the structure of delphi repo - move validation samples to the corresponding folder compactCNN (so everything is in the same place) -> dur: 1.0 -> deadline: 16.0
+7 CSE 3500 ps4 q2 -> dur: 2.0 -> deadline: 10.0
+	 at time 10.0
+Lateness: -2.0
+----------------------------------------------------------------------------------------------------
+8 CSE 3500 ps4 q1 -> dur: 2.0 -> deadline: 10.0
+	 at time 12.0
+Lateness: -4.0
+----------------------------------------------------------------------------------------------------
+9 STAT 3375 - MGF calculation for discrete distributions -> dur: 3.0 -> deadline: 12.0
+	 at time 14.0
+Lateness: -5.0
+----------------------------------------------------------------------------------------------------
+10 STAT 3375 - MGF calculation for continuous distributions -> dur: 3.0 -> deadline: 12.0
 	 at time 17.0
-Lateness: -2.0
+Lateness: -8.0
 ----------------------------------------------------------------------------------------------------
-14 register for Traveler's data science (modeling competition)  -> dur: 1.0 -> deadline: 22.0
-	 at time 18.0
-Lateness: 0
-----------------------------------------------------------------------------------------------------
-15 look up the career center - interviewing star method -> dur: 1.0 -> deadline: 22.0
-	 at time 19.0
-Lateness: 0
-----------------------------------------------------------------------------------------------------
-16 Fil out honors event attendance form for NESS (Data Science Day) -> dur: 2.0 -> deadline: 22.0
+11 CSE 3500 ps4 q4 -> dur: 2.0 -> deadline: 13.0
 	 at time 20.0
-Lateness: 0
+Lateness: -9.0
 ----------------------------------------------------------------------------------------------------
-17 NVIDIA Leetcode Technical Review - easy, medium -> dur: 2.0 -> deadline: 22.0
+12 CSE 3500 ps4 q3 -> dur: 2.0 -> deadline: 13.0
 	 at time 22.0
+Lateness: -11.0
+----------------------------------------------------------------------------------------------------
+13 STAT 3515 - Compile notes 10/26 -> dur: 1.0 -> deadline: 14.0
+	 at time 24.0
+Lateness: -11.0
+----------------------------------------------------------------------------------------------------
+14 NVIDIA Leetcode technical review (medium, easy, hard) -> dur: 3.0 -> deadline: 18.0
+	 at time 25.0
+Lateness: -10.0
+----------------------------------------------------------------------------------------------------
+15 STAT 3515 - Homework 8 -> dur: 3.0 -> deadline: 19.0
+	 at time 28.0
+Lateness: -12.0
+----------------------------------------------------------------------------------------------------
+16 STAT 3375 - Compile notes 10/27 -> dur: 1.0 -> deadline: 21.0
+	 at time 31.0
+Lateness: -11.0
+----------------------------------------------------------------------------------------------------
+17 CSE 3500 - Compile notes 10/26 -> dur: 1.0 -> deadline: 21.0
+	 at time 32.0
+Lateness: -12.0
+----------------------------------------------------------------------------------------------------
+18 CSE 3500 ps5 q5 -> dur: 2.0 -> deadline: 33.0
+	 at time 33.0
 Lateness: -2.0
 ----------------------------------------------------------------------------------------------------
-18 Debug weight Extraction for Delphi -> dur: 3.0 -> deadline: 24.0
-	 at time 24.0
-Lateness: -3.0
-----------------------------------------------------------------------------------------------------
-19 STAT 3375 - MGF calculation for discrete distributions -> dur: 3.0 -> deadline: 37.0
-	 at time 27.0
-Lateness: 0
-----------------------------------------------------------------------------------------------------
-20 STAT 3375 - MGF calculation for continuous distributions -> dur: 3.0 -> deadline: 37.0
-	 at time 30.0
-Lateness: 0
-----------------------------------------------------------------------------------------------------
-21 CSE 3500 - ps4 q4 -> dur: 2.0 -> deadline: 68.0
-	 at time 33.0
-Lateness: 0
-----------------------------------------------------------------------------------------------------
-22 CSE 3500 - ps4 q5 -> dur: 2.0 -> deadline: 68.0
+19 Look into the materials provided here: https://career.uconn.edu/channels/prepare-for-an-interview/#uc_recent_posts-9 -> dur: 2.0 -> deadline: 44.0
 	 at time 35.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-23 CSE 3500 - ps4 q2 -> dur: 2.0 -> deadline: 68.0
+20 Look into how we can take a train to New York or Boston to see a show  -> dur: 2.0 -> deadline: 44.0
 	 at time 37.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-24 CSE 3500 - ps4 q1 -> dur: 2.0 -> deadline: 68.0
+21 Look into getting UPass (UConn student bus pass for CT) -> dur: 2.0 -> deadline: 44.0
 	 at time 39.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-25 CSE 3500 - ps4 q3 -> dur: 2.0 -> deadline: 68.0
+22 Plan Data Challenge -> dur: 2.0 -> deadline: 45.0
 	 at time 41.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-26 Plan Data Challenge -> dur: 2.0 -> deadline: 70.0
+23 Register Team for Data Challenge -> dur: 1.0 -> deadline: 47.0
 	 at time 43.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-27 Register Team for Data Challenge -> dur: 1.0 -> deadline: 72.0
-	 at time 45.0
+24 Fill out honors plan of study -> dur: 2.0 -> deadline: 51.0
+	 at time 44.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-28 Fill out honors plan of study -> dur: 2.0 -> deadline: 76.0
+25 Write 300-word Reflection Essay for Presidential Scholar Enrichment Experience -> dur: 1.0 -> deadline: 54.0
 	 at time 46.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-29 Write 300-word Reflection Essay for Presidential Scholar Enrichment Experience -> dur: 1.0 -> deadline: 79.0
-	 at time 48.0
-Lateness: 0
-----------------------------------------------------------------------------------------------------
-30 Honors Leadership Project Planning -> dur: 2.0 -> deadline: 1865.0
-	 at time 49.0
+26 Honors Leadership Project Planning -> dur: 2.0 -> deadline: 1840.0
+	 at time 47.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------

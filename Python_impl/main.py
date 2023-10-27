@@ -1,4 +1,6 @@
 # key - assignment name -> time -> deadline
+# TODO: Must update the writing function to maintain the original deadline time + date
+#           important for error checking purposes and maintenance
 import os
 from datetime import datetime
 import random

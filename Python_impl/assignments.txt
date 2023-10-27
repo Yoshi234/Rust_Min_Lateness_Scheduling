@@ -1,32 +1,27 @@
-2023-10-19;21
-register for Traveler's data science (modeling competition) ;1.0;22.0
-send email to recruiter at "etc@syf.com" - specify that you attended the data science recruitment event and am interested in all sorts of roles, from cybersecurity, to data analytics and even cloud automation;1.0;8.0
-look up the career center - interviewing star method;1.0;22.0
-STAT 3675 Compile Notes From lecture 10/19/23;2.0;15.0
-Fil out honors event attendance form for NESS (Data Science Day);2.0;22.0
-STAT 3375 - Quiz 3;2.0;8.0
-CSE 3500 - ps4 q4;2.0;68.0
-CSE 3500 - ps4 q5;2.0;68.0
-CSE 3500 - ps4 q2;2.0;68.0
-CSE 3500 - ps4 q1;2.0;68.0
-CSE 3500 - ps4 q3;2.0;68.0
-STAT 3375 - MGF calculation for discrete distributions;3.0;37.0
-STAT 3375 - MGF calculation for continuous distributions;3.0;37.0
-Debug weight Extraction for Delphi;3.0;24.0
-STAT 3515 - Compile Notes 10/19/23;1.0;10.0
-STAT 3515 - Compile Notes 10/17/23;1.0;10.0
-STAT 3375 - Compile Notes 10/20/23;1.0;10.0
-CSE 3500 - Compile Notes 10/17/23 + 10/19/23;2.0;10.0
-Write 300-word Reflection Essay for Presidential Scholar Enrichment Experience;1.0;79.0
-Set meeting appointment with Dr. Schifano - class registration for next semester + internships + what I need to do to get to MIT for DSML;1.0;9.0
-Set meeting appointment with Dr. Hong - discuss what I need to do to get into MIT/Berkley (what should my goals be for the next year and a half);1.0;9.0
-Reach out to recruiter if not heard back about applications by 10/21/23;1.0;16.0
-Reach out to NVIDIA - ML Synthetic Guy from Ryan - reach out about a call ;1.0;15.0
-Complete all assignments listed in email from NESS (Xiaohan Guo) for DSDay setup;1.0;8.0
-Register Team for Data Challenge;1.0;72.0
-Update the structure of delphi repo - move validation samples to the corresponding folder compactCNN (so everything is in the same place);1.0;16.0
-Honors GPS office hours - get help with the honors plan of study;2.0;15.0
-NVIDIA Leetcode Technical Review - easy, medium;2.0;22.0
-Fill out honors plan of study;2.0;76.0
-Plan Data Challenge;2.0;70.0
-Honors Leadership Project Planning;2.0;1865.0
+2023-10-26;21
+Assemble plan for UConn Traveler's Competition;2;56
+Plan for CSE 3500 Exam Review;2;22
+Fill out honors plan of study;1.0;22.0
+NVIDIA tech review (weekly - easy);1.0;10.0
+CSE 3500 ps4 q3;2.0;7.0
+CSE 3500 ps4 q4;2.0;7.0
+CSE 3500 ps4 q2;2.0;3.0
+CSE 3500 ps4 q1;2.0;3.0
+STAT 3375 MGF Calculation for continuous;2.0;37.0
+STAT 3375 MGF Calculation for discrete;2.0;150.0
+Look into UPass;1.0;56.0
+STAT 3375 Compile Notes 10/27;1.0;8.0
+CSE 3500 - Compile Notes 10/25 + 10/26;2.0;8.0
+STAT 3515 - Compile notes 10/24 + 10/26;2.0;8.0
+Look into the materials provided here: https://career.uconn.edu/channels/prepare-for-an-interview/#uc_recent_posts-9;1.0;205.0
+STAT 3675 Homework 3;3.0;31.0
+Look into how we can take a train to New York or Boston to see a show;1.0;56.0
+STAT 3515 Homework 8;2.0;6.0
+HuskyConnect - reach out to a dsml professional;1.0;150.0
+Debug weight extraction for delphi and accuracy impl;2.0;22.0
+Debug weight extraction for delphi and accuracy impl;1.0;27.0
+Debug weight extraction for delphi and accuracy impl;2.0;49.0
+Debug weight extraction for delphi and accuracy impl ;2.0;15.0
+Write 300-word Reflection Essay for Presidential Scholar Enrichment Experience;1.0;38.0
+Plan Data Challenge;2.0;29.0
+Honors Leadership Project Planning;2.0;1824.0

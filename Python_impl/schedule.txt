@@ -1,104 +1,104 @@
-0 CSE 3500 ps4 q2 -> dur: 2.0 -> deadline: 3.0
+0 CSE 3500 ps4 q2 -> dur: 2.0 -> deadline: 1.0
 	 at time 0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-1 CSE 3500 ps4 q1 -> dur: 2.0 -> deadline: 3.0
+1 CSE 3500 ps4 q1 -> dur: 2.0 -> deadline: 1.0
 	 at time 2.0
-Lateness: 0
+Lateness: -3.0
 ----------------------------------------------------------------------------------------------------
-2 STAT 3515 Homework 8 -> dur: 2.0 -> deadline: 6.0
+2 STAT 3515 Homework 8 -> dur: 2.0 -> deadline: 4.0
 	 at time 4.0
-Lateness: 0
+Lateness: -2.0
 ----------------------------------------------------------------------------------------------------
-3 CSE 3500 ps4 q3 -> dur: 2.0 -> deadline: 7.0
+3 CSE 3500 ps4 q3 -> dur: 2.0 -> deadline: 5.0
 	 at time 6.0
-Lateness: 0
+Lateness: -3.0
 ----------------------------------------------------------------------------------------------------
-4 CSE 3500 ps4 q4 -> dur: 2.0 -> deadline: 7.0
+4 CSE 3500 ps4 q4 -> dur: 2.0 -> deadline: 5.0
 	 at time 8.0
-Lateness: -3.0
-----------------------------------------------------------------------------------------------------
-5 STAT 3375 Compile Notes 10/27 -> dur: 1.0 -> deadline: 8.0
-	 at time 10.0
-Lateness: -3.0
-----------------------------------------------------------------------------------------------------
-6 CSE 3500 - Compile Notes 10/25 + 10/26 -> dur: 2.0 -> deadline: 8.0
-	 at time 11.0
 Lateness: -5.0
 ----------------------------------------------------------------------------------------------------
-7 STAT 3515 - Compile notes 10/24 + 10/26 -> dur: 2.0 -> deadline: 8.0
-	 at time 13.0
+5 STAT 3375 Compile Notes 10/27 -> dur: 1.0 -> deadline: 6.0
+	 at time 10.0
+Lateness: -5.0
+----------------------------------------------------------------------------------------------------
+6 CSE 3500 - Compile Notes 10/25 + 10/26 -> dur: 2.0 -> deadline: 6.0
+	 at time 11.0
 Lateness: -7.0
 ----------------------------------------------------------------------------------------------------
-8 NVIDIA tech review (weekly - easy) -> dur: 1.0 -> deadline: 10.0
+7 STAT 3515 - Compile notes 10/24 + 10/26 -> dur: 2.0 -> deadline: 6.0
+	 at time 13.0
+Lateness: -9.0
+----------------------------------------------------------------------------------------------------
+8 NVIDIA tech review (weekly - easy) -> dur: 1.0 -> deadline: 8.0
 	 at time 15.0
-Lateness: -6.0
+Lateness: -8.0
 ----------------------------------------------------------------------------------------------------
-9 Debug weight extraction for delphi and accuracy impl  -> dur: 2.0 -> deadline: 15.0
+9 Debug weight extraction for delphi and accuracy impl  -> dur: 2.0 -> deadline: 13.0
 	 at time 16.0
-Lateness: -3.0
+Lateness: -5.0
 ----------------------------------------------------------------------------------------------------
-10 Plan for CSE 3500 Exam Review -> dur: 2 -> deadline: 22
+10 Plan for CSE 3500 Exam Review -> dur: 2.0 -> deadline: 20.0
 	 at time 18.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-11 Fill out honors plan of study -> dur: 1.0 -> deadline: 22.0
+11 Fill out honors plan of study -> dur: 1.0 -> deadline: 20.0
 	 at time 20.0
-Lateness: 0
+Lateness: -1.0
 ----------------------------------------------------------------------------------------------------
-12 Debug weight extraction for delphi and accuracy impl -> dur: 2.0 -> deadline: 22.0
+12 Debug weight extraction for delphi and accuracy impl -> dur: 2.0 -> deadline: 20.0
 	 at time 21.0
-Lateness: 0
+Lateness: -3.0
 ----------------------------------------------------------------------------------------------------
-13 Debug weight extraction for delphi and accuracy impl -> dur: 1.0 -> deadline: 27.0
+13 Debug weight extraction for delphi and accuracy impl -> dur: 1.0 -> deadline: 25.0
 	 at time 23.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-14 Plan Data Challenge -> dur: 2.0 -> deadline: 29.0
+14 Plan Data Challenge -> dur: 2.0 -> deadline: 27.0
 	 at time 24.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-15 STAT 3675 Homework 3 -> dur: 3.0 -> deadline: 31.0
+15 STAT 3675 Homework 3 -> dur: 3.0 -> deadline: 29.0
 	 at time 26.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-16 STAT 3375 MGF Calculation for continuous -> dur: 2.0 -> deadline: 37.0
+16 STAT 3375 MGF Calculation for continuous -> dur: 2.0 -> deadline: 35.0
 	 at time 29.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-17 Write 300-word Reflection Essay for Presidential Scholar Enrichment Experience -> dur: 1.0 -> deadline: 38.0
+17 Write 300-word Reflection Essay for Presidential Scholar Enrichment Experience -> dur: 1.0 -> deadline: 36.0
 	 at time 31.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-18 Debug weight extraction for delphi and accuracy impl -> dur: 2.0 -> deadline: 49.0
+18 Debug weight extraction for delphi and accuracy impl -> dur: 2.0 -> deadline: 47.0
 	 at time 32.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-19 Assemble plan for UConn Traveler's Competition -> dur: 2 -> deadline: 56
+19 Assemble plan for UConn Traveler's Competition -> dur: 2.0 -> deadline: 54.0
 	 at time 34.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-20 Look into UPass -> dur: 1.0 -> deadline: 56.0
+20 Look into UPass -> dur: 1.0 -> deadline: 54.0
 	 at time 36.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-21 Look into how we can take a train to New York or Boston to see a show -> dur: 1.0 -> deadline: 56.0
+21 Look into how we can take a train to New York or Boston to see a show -> dur: 1.0 -> deadline: 54.0
 	 at time 37.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-22 STAT 3375 MGF Calculation for discrete -> dur: 2.0 -> deadline: 150.0
+22 STAT 3375 MGF Calculation for discrete -> dur: 2.0 -> deadline: 148.0
 	 at time 38.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-23 HuskyConnect - reach out to a dsml professional -> dur: 1.0 -> deadline: 150.0
+23 HuskyConnect - reach out to a dsml professional -> dur: 1.0 -> deadline: 148.0
 	 at time 40.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-24 Look into the materials provided here: https://career.uconn.edu/channels/prepare-for-an-interview/#uc_recent_posts-9 -> dur: 1.0 -> deadline: 205.0
+24 Look into the materials provided here: https://career.uconn.edu/channels/prepare-for-an-interview/#uc_recent_posts-9 -> dur: 1.0 -> deadline: 203.0
 	 at time 41.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-25 Honors Leadership Project Planning -> dur: 2.0 -> deadline: 1824.0
+25 Honors Leadership Project Planning -> dur: 2.0 -> deadline: 1822.0
 	 at time 42.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------

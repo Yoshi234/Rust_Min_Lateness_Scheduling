@@ -45,19 +45,29 @@ def get_hour_dif(days:list, time_dif:int, prev_day:int, current_day:int, prev_ho
     #     return None
     current_hour = time_to_hour(days, current_hour, current_day)
     prev_hour = time_to_hour(days, prev_hour, prev_day)
-    if time_dif == 0:
-        return current_hour - prev_hour
     
     n = len(days)
-    sum = (time_dif//n)*total
-    remain = time_dif%n
-    while remain != 0:
-        sum += days[current_day].hours
-        current_day -= 1
-        remain -= 1
-    sum += (days[prev_day].hours - prev_hour)
-    sum -= (days[current_day].hours - current_hour)
-    return sum-2
+    if time_dif == 0:
+        return current_hour - prev_hour
+
+    elif time_dif == 1:
+        if current_day >= 1: return current_hour + (days[current_day-1].hours - prev_hour)
+        elif current_day == 0: return current_hour + (days[n-1].hours)
+    
+    elif time_dif >= 2:
+        sum = (time_dif//n)*total
+        remain = time_dif%n
+        while remain != 0:
+            sum += days[current_day].hours
+            current_day -= 1
+            remain -= 1
+        sum += (days[prev_day].hours - prev_hour)
+        sum -= (days[current_day].hours - current_hour)
+        return sum-2
+  
+    # if none of the other cases trigger, make sure to call an error
+    print("There was an error in the calculating the time difference")
+    exit()
 
 # today = 0
 def find_time_del(days:list, time_dif:int, current:int = 0, total:int=43):
@@ -185,6 +195,11 @@ if __name__ == "__main__":
     # ]
     random.shuffle(all_assignments)
 
+    # define a separate date (day) variable which only contains day information 
+    # and not the hour information of the current day
+    date_string = current_date.strftime("%Y-%m-%d")
+    current_date_day = datetime.strptime(date_string, "%Y-%m-%d")
+
     if not "assignments.txt" in os.listdir():
         with open("assignments.txt", "w") as f:
             f.write(f"{current_date.strftime('%Y-%m-%d')};{current_date.hour}\n")
@@ -202,9 +217,11 @@ if __name__ == "__main__":
                 x = x.split(";")
                 assignment = Assign(x[0], float(x[1]), float(x[2]))
                 old_assignments.append(assignment)
-            dif = get_hour_dif(days, time_dif=(current_date - old_date).days, 
+            # use current_day_day instead of current_date to calculate day difference
+            # use current_day with the hour to calculate current_hour variable
+            dif = get_hour_dif(days, time_dif=(current_date_day - old_date).days, 
                                prev_day=old_date.weekday(),
-                               current_day=current_date.weekday(), 
+                               current_day=current_date_day.weekday(), 
                                prev_hour=int(old_date_hour),
                                current_hour=current_date.hour)
             if dif > 0:

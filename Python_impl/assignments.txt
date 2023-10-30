@@ -1,27 +1,28 @@
-2023-10-27;8
-Assemble plan for UConn Traveler's Competition;2.0;54.0
-Plan for CSE 3500 Exam Review;2.0;20.0
-Fill out honors plan of study;1.0;20.0
-NVIDIA tech review (weekly - easy);1.0;8.0
-CSE 3500 ps4 q3;2.0;5.0
-CSE 3500 ps4 q4;2.0;5.0
-CSE 3500 ps4 q2;2.0;1.0
-CSE 3500 ps4 q1;2.0;1.0
-STAT 3375 MGF Calculation for continuous;2.0;35.0
-STAT 3375 MGF Calculation for discrete;2.0;148.0
-Look into UPass;1.0;54.0
-STAT 3375 Compile Notes 10/27;1.0;6.0
-CSE 3500 - Compile Notes 10/25 + 10/26;2.0;6.0
-STAT 3515 - Compile notes 10/24 + 10/26;2.0;6.0
-Look into the materials provided here: https://career.uconn.edu/channels/prepare-for-an-interview/#uc_recent_posts-9;1.0;203.0
-STAT 3675 Homework 3;3.0;29.0
-Look into how we can take a train to New York or Boston to see a show;1.0;54.0
-STAT 3515 Homework 8;2.0;4.0
-HuskyConnect - reach out to a dsml professional;1.0;148.0
-Debug weight extraction for delphi and accuracy impl;2.0;20.0
-Debug weight extraction for delphi and accuracy impl;1.0;25.0
-Debug weight extraction for delphi and accuracy impl;2.0;47.0
-Debug weight extraction for delphi and accuracy impl ;2.0;13.0
-Write 300-word Reflection Essay for Presidential Scholar Enrichment Experience;1.0;36.0
-Plan Data Challenge;2.0;27.0
-Honors Leadership Project Planning;2.0;1822.0
+2023-10-29;20
+Register for Honors Event: Service-ing Your Resume;1.0;55.0
+CSE 3500 - assemble cheat sheet;1.0;19.0
+CSE 3500 - Div + Conquer Random Problem ;1.0;16.0
+CSE 3500 - MST problem ;1.0;10.0
+CSE 3500 - Matrix Multiplication Problem;1.0;16.0
+Review Divide and Conquer;2.0;10.0
+CSE 3500 - Closest pair of points problem;1.0;16.0
+Review Greedy Algorithms Content;2.0;10.0
+CSE 3500 - Coin Changing / Minimizing Lateness / Interval Scheduling / Interval Partitioning;1.0;16.0
+CSE 3500 - single-pair shortest path problem;1.0;10.0
+STAT 3515 Homework 9;3.0;16.0
+NVIDIA Leetcode Review (easy weekly);1.0;1.0
+Create plan for traveler's modeling competition - generate documentation for UHL requirements;2.0;1.0
+Submit Entry for traveler's modeling competition;1.0;112.0
+STAT 3375 MGF Calculation for continuous;2.0;15.0
+STAT 3375 MGF Calculation for discrete;2.0;128.0
+Look into UPass;1.0;34.0
+Look into the materials provided here: https://career.uconn.edu/channels/prepare-for-an-interview/#uc_recent_posts-9;1.0;183.0
+STAT 3675 Homework 3;3.0;9.0
+Look into how we can take a train to New York or Boston to see a show;1.0;34.0
+HuskyConnect - reach out to a dsml professional;1.0;128.0
+Debug weight extraction for delphi and accuracy impl-train the resnet32 arch for 1 epoch, see if model works;2.0;0.0
+Debug weight extraction for delphi and accuracy impl;1.0;5.0
+Debug weight extraction for delphi and accuracy impl;2.0;27.0
+Write 300-word Reflection Essay for Presidential Scholar Enrichment Experience;1.0;16.0
+Plan Data Challenge;2.0;7.0
+Honors Leadership Project Planning;2.0;1802.0

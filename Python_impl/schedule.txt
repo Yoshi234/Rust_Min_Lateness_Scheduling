@@ -1,108 +1,84 @@
-0 Debug weight extraction for delphi and accuracy impl-train the resnet32 arch for 1 epoch, see if model works -> dur: 2.0 -> deadline: 0.0
+0 STAT 3515 Homework 9 -> dur: 3.0 -> deadline: -3.0
 	 at time 0
-Lateness: -2.0
+Lateness: -6.0
 ----------------------------------------------------------------------------------------------------
-1 NVIDIA Leetcode Review (easy weekly) -> dur: 1.0 -> deadline: 1.0
-	 at time 2.0
-Lateness: -2.0
-----------------------------------------------------------------------------------------------------
-2 Create plan for traveler's modeling competition - generate documentation for UHL requirements -> dur: 2.0 -> deadline: 1.0
+1 Write 300-word Reflection Essay for Presidential Scholar Enrichment Experience -> dur: 1.0 -> deadline: -3.0
 	 at time 3.0
-Lateness: -4.0
+Lateness: -7.0
 ----------------------------------------------------------------------------------------------------
-3 Debug weight extraction for delphi and accuracy impl -> dur: 1.0 -> deadline: 5.0
-	 at time 5.0
-Lateness: -1.0
+2 Come up with a plan to visit Boston with Junxin - correspond with parents about this as well -> dur: 2.0 -> deadline: 0.0
+	 at time 4.0
+Lateness: -6.0
 ----------------------------------------------------------------------------------------------------
-4 Plan Data Challenge -> dur: 2.0 -> deadline: 7.0
+3 STAT 3515 - Develop Plan for Exam Study (Exam 11/07/23) -> dur: 2.0 -> deadline: 1.0
 	 at time 6.0
-Lateness: 0
+Lateness: -7.0
 ----------------------------------------------------------------------------------------------------
-5 STAT 3675 Homework 3 -> dur: 3.0 -> deadline: 9.0
+4 Debug delphi weight extraction - train resnet for 1 epoch and try to see if we can get the model to load properly - test in delphi -> dur: 3.0 -> deadline: 5.0
 	 at time 8.0
-Lateness: 0
+Lateness: -6.0
 ----------------------------------------------------------------------------------------------------
-6 CSE 3500 - MST problem  -> dur: 1.0 -> deadline: 10.0
+5 Travelers Competition - general linear model research + PCA - feature extraction and engineering -> dur: 3.0 -> deadline: 5.0
 	 at time 11.0
-Lateness: -2.0
-----------------------------------------------------------------------------------------------------
-7 Review Divide and Conquer -> dur: 2.0 -> deadline: 10.0
-	 at time 12.0
-Lateness: -4.0
-----------------------------------------------------------------------------------------------------
-8 Review Greedy Algorithms Content -> dur: 2.0 -> deadline: 10.0
-	 at time 14.0
-Lateness: -6.0
-----------------------------------------------------------------------------------------------------
-9 CSE 3500 - single-pair shortest path problem -> dur: 1.0 -> deadline: 10.0
-	 at time 16.0
-Lateness: -7.0
-----------------------------------------------------------------------------------------------------
-10 STAT 3375 MGF Calculation for continuous -> dur: 2.0 -> deadline: 15.0
-	 at time 17.0
-Lateness: -4.0
-----------------------------------------------------------------------------------------------------
-11 CSE 3500 - Div + Conquer Random Problem  -> dur: 1.0 -> deadline: 16.0
-	 at time 19.0
-Lateness: -4.0
-----------------------------------------------------------------------------------------------------
-12 CSE 3500 - Matrix Multiplication Problem -> dur: 1.0 -> deadline: 16.0
-	 at time 20.0
-Lateness: -5.0
-----------------------------------------------------------------------------------------------------
-13 CSE 3500 - Closest pair of points problem -> dur: 1.0 -> deadline: 16.0
-	 at time 21.0
-Lateness: -6.0
-----------------------------------------------------------------------------------------------------
-14 CSE 3500 - Coin Changing / Minimizing Lateness / Interval Scheduling / Interval Partitioning -> dur: 1.0 -> deadline: 16.0
-	 at time 22.0
-Lateness: -7.0
-----------------------------------------------------------------------------------------------------
-15 STAT 3515 Homework 9 -> dur: 3.0 -> deadline: 16.0
-	 at time 23.0
-Lateness: -10.0
-----------------------------------------------------------------------------------------------------
-16 Write 300-word Reflection Essay for Presidential Scholar Enrichment Experience -> dur: 1.0 -> deadline: 16.0
-	 at time 26.0
-Lateness: -11.0
-----------------------------------------------------------------------------------------------------
-17 CSE 3500 - assemble cheat sheet -> dur: 1.0 -> deadline: 19.0
-	 at time 27.0
 Lateness: -9.0
 ----------------------------------------------------------------------------------------------------
-18 Debug weight extraction for delphi and accuracy impl -> dur: 2.0 -> deadline: 27.0
-	 at time 28.0
+6 Debug weight extraction for delphi and accuracy impl -> dur: 2.0 -> deadline: 8.0
+	 at time 14.0
+Lateness: -8.0
+----------------------------------------------------------------------------------------------------
+7 STAT 3375 - compile notes from 10/30 + 11/01 -> dur: 1.0 -> deadline: 9.0
+	 at time 16.0
+Lateness: -8.0
+----------------------------------------------------------------------------------------------------
+8 Look into UPass -> dur: 1.0 -> deadline: 15.0
+	 at time 17.0
 Lateness: -3.0
 ----------------------------------------------------------------------------------------------------
-19 Look into UPass -> dur: 1.0 -> deadline: 34.0
-	 at time 30.0
+9 Look into how we can take a train to New York or Boston to see a show -> dur: 1.0 -> deadline: 15.0
+	 at time 18.0
+Lateness: -4.0
+----------------------------------------------------------------------------------------------------
+10 STAT 3375 - Quiz 4 -> dur: 2.0 -> deadline: 16.0
+	 at time 19.0
+Lateness: -5.0
+----------------------------------------------------------------------------------------------------
+11 Plan data challenge  -> dur: 2.0 -> deadline: 16.0
+	 at time 21.0
+Lateness: -7.0
+----------------------------------------------------------------------------------------------------
+12 NVIDIA technical review (leetcode easy + medium)  -> dur: 1.0 -> deadline: 16.0
+	 at time 23.0
+Lateness: -8.0
+----------------------------------------------------------------------------------------------------
+13 Make update to scheduler - add feature to append the date to the end of each line in assignments.txt -> dur: 1.0 -> deadline: 16.0
+	 at time 24.0
+Lateness: -9.0
+----------------------------------------------------------------------------------------------------
+14 Register for Honors Event: Service-ing Your Resume -> dur: 1.0 -> deadline: 36.0
+	 at time 25.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-20 Look into how we can take a train to New York or Boston to see a show -> dur: 1.0 -> deadline: 34.0
+15 Submit Entry for traveler's modeling competition -> dur: 1.0 -> deadline: 93.0
+	 at time 26.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+16 STAT 3375 MGF Calculation for continuous -> dur: 2.0 -> deadline: 106.0
+	 at time 27.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+17 STAT 3375 MGF Calculation for discrete -> dur: 2.0 -> deadline: 109.0
+	 at time 29.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+18 HuskyConnect - reach out to a dsml professional -> dur: 1.0 -> deadline: 109.0
 	 at time 31.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-21 Register for Honors Event: Service-ing Your Resume -> dur: 1.0 -> deadline: 55.0
+19 Look into the materials provided here: https://career.uconn.edu/channels/prepare-for-an-interview/#uc_recent_posts-9 -> dur: 1.0 -> deadline: 164.0
 	 at time 32.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-22 Submit Entry for traveler's modeling competition -> dur: 1.0 -> deadline: 112.0
+20 Honors Leadership Project Planning -> dur: 2.0 -> deadline: 1783.0
 	 at time 33.0
-Lateness: 0
-----------------------------------------------------------------------------------------------------
-23 STAT 3375 MGF Calculation for discrete -> dur: 2.0 -> deadline: 128.0
-	 at time 34.0
-Lateness: 0
-----------------------------------------------------------------------------------------------------
-24 HuskyConnect - reach out to a dsml professional -> dur: 1.0 -> deadline: 128.0
-	 at time 36.0
-Lateness: 0
-----------------------------------------------------------------------------------------------------
-25 Look into the materials provided here: https://career.uconn.edu/channels/prepare-for-an-interview/#uc_recent_posts-9 -> dur: 1.0 -> deadline: 183.0
-	 at time 37.0
-Lateness: 0
-----------------------------------------------------------------------------------------------------
-26 Honors Leadership Project Planning -> dur: 2.0 -> deadline: 1802.0
-	 at time 38.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------

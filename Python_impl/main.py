@@ -52,7 +52,7 @@ def get_hour_dif(days:list, time_dif:int, prev_day:int, current_day:int, prev_ho
 
     elif time_dif == 1:
         if current_day >= 1: return current_hour + (days[current_day-1].hours - prev_hour)
-        elif current_day == 0: return current_hour + (days[n-1].hours)
+        elif current_day == 0: return current_hour + (days[n-1].hours - prev_hour)
     
     elif time_dif >= 2:
         sum = (time_dif//n)*total
@@ -159,7 +159,7 @@ class Assign:
     def __str__(self):
         return f"{self.name} -> dur: {self.duration} -> deadline: {self.deadline}"
 
-if __name__ == "__main__":
+def main():
     # these times were set on 10/8/23 - make sure to iteratively subtract from each 
     # deadline the number of days which have passed leading up to the most recent
     # update point
@@ -243,3 +243,64 @@ if __name__ == "__main__":
             f.write(100*"-")
             f.write("\n")
             time += sorted_data[i].duration
+
+def rework_deadlines():
+    current_date = datetime.now()
+    all_assignments = get_new_assignments(days, current_date)
+    # update_val = 6
+    old_assignments = []
+    with open("assignments.txt", "r") as f:
+        lines = f.readlines()
+        line1 = lines[0].strip("\n")
+        line1 = line1.split(";")
+        # old_date = datetime.strptime(line1[0], '%Y-%m-%d')
+        # old_date_hour = int(line1[1])
+        for i in range(1, len(lines)):
+            x = lines[i].strip("\n")
+            x = x.split(";")
+            assignment = Assign(x[0], float(x[1]), float(x[2]))
+            old_assignments.append(assignment)
+    #     for assign in old_assignments:
+    #         assign.deadline += update_val
+    #     # use current_day_day instead of current_date to calculate day difference
+    #     # use current_day with the hour to calculate current_hour variable
+    #     # dif = get_hour_dif(days, time_dif=(current_date_day - old_date).days, 
+    #     #                     prev_day=old_date.weekday(),
+    #     #                     current_day=current_date_day.weekday(), 
+    #     #                     prev_hour=int(old_date_hour),
+    #     #                     current_hour=current_date.hour)
+    #     # if dif > 0:
+    #     #     for assign in old_assignments:
+    #     #         assign.deadline -= dif
+    #     # else: 
+    #     #     for assign in old_assignments:
+    #     #         assign.deadline += dif
+    all_assignments = all_assignments + old_assignments
+    # write_assignments(all_assignments, "assignments.txt", current_date)
+    with open("schedule.txt", "w") as f:
+        time = 0
+        sorted_data = sorted(all_assignments, key=lambda item: item.deadline)
+        for i in range(len(sorted_data)):
+            f.write(f"{i} {sorted_data[i]}\n")
+            f.write(f"\t at time {time}\n")
+            f.write(f"Lateness: {0 if sorted_data[i].deadline > time else sorted_data[i].deadline - (time+sorted_data[i].duration)}\n")
+            f.write(100*"-")
+            f.write("\n")
+            time += sorted_data[i].duration
+
+def test():
+    str1 = "2023-10-29"
+    hr1 = 20
+    date1 = datetime.strptime(str1, "%Y-%m-%d")
+    str2 = "2023-10-30"
+    hr2 = 10
+    date2 = datetime.strptime(str2, "%Y-%m-%d")
+    dif = get_hour_dif(days, time_dif=(date2 - date1).days, 
+                               prev_day=date1.weekday(),
+                               current_day=date2.weekday(), 
+                               prev_hour=int(hr1),
+                               current_hour=hr2)
+    print(dif)
+
+if __name__ == "__main__":
+    main()

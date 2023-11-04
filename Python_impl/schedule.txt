@@ -1,84 +1,80 @@
-0 STAT 3515 Homework 9 -> dur: 3.0 -> deadline: -3.0
+0 STAT 3375 - compile notes from 10/30 + 11/01 -> dur: 1.0 -> deadline: -6.0
 	 at time 0
-Lateness: -6.0
-----------------------------------------------------------------------------------------------------
-1 Write 300-word Reflection Essay for Presidential Scholar Enrichment Experience -> dur: 1.0 -> deadline: -3.0
-	 at time 3.0
 Lateness: -7.0
 ----------------------------------------------------------------------------------------------------
-2 Come up with a plan to visit Boston with Junxin - correspond with parents about this as well -> dur: 2.0 -> deadline: 0.0
-	 at time 4.0
-Lateness: -6.0
+1 Get UPass -> dur: 1.0 -> deadline: 0.0
+	 at time 1.0
+Lateness: -2.0
 ----------------------------------------------------------------------------------------------------
-3 STAT 3515 - Develop Plan for Exam Study (Exam 11/07/23) -> dur: 2.0 -> deadline: 1.0
+2 STAT 3375 - Quiz 4 -> dur: 2.0 -> deadline: 1.0
+	 at time 2.0
+Lateness: -3.0
+----------------------------------------------------------------------------------------------------
+3 call ryan and see if he wants to hang out over thanksgiving break -> dur: 1.0 -> deadline: 1.0
+	 at time 4.0
+Lateness: -4.0
+----------------------------------------------------------------------------------------------------
+4 STAT 3515 - Come up with plan for exam study (Exam 11/07/23) -> dur: 1.0 -> deadline: 1.0
+	 at time 5.0
+Lateness: -5.0
+----------------------------------------------------------------------------------------------------
+5 CSE 3500 - view lecture 10/31/23 on HuskyCT -> dur: 2.0 -> deadline: 1.0
 	 at time 6.0
 Lateness: -7.0
 ----------------------------------------------------------------------------------------------------
-4 Debug delphi weight extraction - train resnet for 1 epoch and try to see if we can get the model to load properly - test in delphi -> dur: 3.0 -> deadline: 5.0
+6 Plan data challenge  -> dur: 2.0 -> deadline: 1.0
 	 at time 8.0
-Lateness: -6.0
+Lateness: -9.0
 ----------------------------------------------------------------------------------------------------
-5 Travelers Competition - general linear model research + PCA - feature extraction and engineering -> dur: 3.0 -> deadline: 5.0
+7 NVIDIA technical review (leetcode easy + medium)  -> dur: 1.0 -> deadline: 1.0
+	 at time 10.0
+Lateness: -10.0
+----------------------------------------------------------------------------------------------------
+8 Make update to scheduler - add feature to append the date to the end of each line in assignments.txt -> dur: 1.0 -> deadline: 1.0
 	 at time 11.0
+Lateness: -11.0
+----------------------------------------------------------------------------------------------------
+9 Travelers Competition - Meeting with Jason  -> dur: 1.0 -> deadline: 2.0
+	 at time 12.0
+Lateness: -11.0
+----------------------------------------------------------------------------------------------------
+10 Travelers Competition - Check over Jason's work on PCA -> dur: 2 -> deadline: 7
+	 at time 13.0
+Lateness: -8.0
+----------------------------------------------------------------------------------------------------
+11 Debug weight extraction Delphi - run the resnet model that Ali helped me to put together  -> dur: 2.0 -> deadline: 8.0
+	 at time 15.0
 Lateness: -9.0
 ----------------------------------------------------------------------------------------------------
-6 Debug weight extraction for delphi and accuracy impl -> dur: 2.0 -> deadline: 8.0
-	 at time 14.0
-Lateness: -8.0
-----------------------------------------------------------------------------------------------------
-7 STAT 3375 - compile notes from 10/30 + 11/01 -> dur: 1.0 -> deadline: 9.0
-	 at time 16.0
-Lateness: -8.0
-----------------------------------------------------------------------------------------------------
-8 Look into UPass -> dur: 1.0 -> deadline: 15.0
+12 Academic - Organize Plan of study to incorporate BADM 3103 and BADM 3302 -> dur: 1.0 -> deadline: 8.0
 	 at time 17.0
-Lateness: -3.0
+Lateness: -10.0
 ----------------------------------------------------------------------------------------------------
-9 Look into how we can take a train to New York or Boston to see a show -> dur: 1.0 -> deadline: 15.0
+13 Register for Honors Event: Service-ing Your Resume -> dur: 1.0 -> deadline: 21.0
 	 at time 18.0
-Lateness: -4.0
+Lateness: 0
 ----------------------------------------------------------------------------------------------------
-10 STAT 3375 - Quiz 4 -> dur: 2.0 -> deadline: 16.0
+14 Submit Entry for traveler's modeling competition -> dur: 1.0 -> deadline: 78.0
 	 at time 19.0
-Lateness: -5.0
+Lateness: 0
 ----------------------------------------------------------------------------------------------------
-11 Plan data challenge  -> dur: 2.0 -> deadline: 16.0
-	 at time 21.0
-Lateness: -7.0
+15 STAT 3375 MGF Calculation for continuous -> dur: 2.0 -> deadline: 91.0
+	 at time 20.0
+Lateness: 0
 ----------------------------------------------------------------------------------------------------
-12 NVIDIA technical review (leetcode easy + medium)  -> dur: 1.0 -> deadline: 16.0
-	 at time 23.0
-Lateness: -8.0
+16 STAT 3375 MGF Calculation for discrete -> dur: 2.0 -> deadline: 94.0
+	 at time 22.0
+Lateness: 0
 ----------------------------------------------------------------------------------------------------
-13 Make update to scheduler - add feature to append the date to the end of each line in assignments.txt -> dur: 1.0 -> deadline: 16.0
+17 HuskyConnect - reach out to a dsml professional -> dur: 1.0 -> deadline: 94.0
 	 at time 24.0
-Lateness: -9.0
+Lateness: 0
 ----------------------------------------------------------------------------------------------------
-14 Register for Honors Event: Service-ing Your Resume -> dur: 1.0 -> deadline: 36.0
+18 Look into the materials provided here: https://career.uconn.edu/channels/prepare-for-an-interview/#uc_recent_posts-9 -> dur: 1.0 -> deadline: 149.0
 	 at time 25.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-15 Submit Entry for traveler's modeling competition -> dur: 1.0 -> deadline: 93.0
+19 Honors Leadership Project Planning -> dur: 2.0 -> deadline: 1768.0
 	 at time 26.0
-Lateness: 0
-----------------------------------------------------------------------------------------------------
-16 STAT 3375 MGF Calculation for continuous -> dur: 2.0 -> deadline: 106.0
-	 at time 27.0
-Lateness: 0
-----------------------------------------------------------------------------------------------------
-17 STAT 3375 MGF Calculation for discrete -> dur: 2.0 -> deadline: 109.0
-	 at time 29.0
-Lateness: 0
-----------------------------------------------------------------------------------------------------
-18 HuskyConnect - reach out to a dsml professional -> dur: 1.0 -> deadline: 109.0
-	 at time 31.0
-Lateness: 0
-----------------------------------------------------------------------------------------------------
-19 Look into the materials provided here: https://career.uconn.edu/channels/prepare-for-an-interview/#uc_recent_posts-9 -> dur: 1.0 -> deadline: 164.0
-	 at time 32.0
-Lateness: 0
-----------------------------------------------------------------------------------------------------
-20 Honors Leadership Project Planning -> dur: 2.0 -> deadline: 1783.0
-	 at time 33.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------

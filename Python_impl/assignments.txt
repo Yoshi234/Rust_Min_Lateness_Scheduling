@@ -1,21 +1,30 @@
-2023-11-04;18
-Travelers Competition - Check over Jason's work on PCA;2;7
-Travelers Competition - Meeting with Jason ;1.0;2.0
-Debug weight extraction Delphi - run the resnet model that Ali helped me to put together ;2.0;8.0
-Academic - Organize Plan of study to incorporate BADM 3103 and BADM 3302;1.0;8.0
-STAT 3375 - Quiz 4;2.0;1.0
-call ryan and see if he wants to hang out over thanksgiving break;1.0;1.0
-STAT 3515 - Come up with plan for exam study (Exam 11/07/23);1.0;1.0
-CSE 3500 - view lecture 10/31/23 on HuskyCT;2.0;1.0
-STAT 3375 - compile notes from 10/30 + 11/01;1.0;-6.0
-Plan data challenge ;2.0;1.0
-NVIDIA technical review (leetcode easy + medium) ;1.0;1.0
-Make update to scheduler - add feature to append the date to the end of each line in assignments.txt;1.0;1.0
-Register for Honors Event: Service-ing Your Resume;1.0;21.0
-Submit Entry for traveler's modeling competition;1.0;78.0
-STAT 3375 MGF Calculation for continuous;2.0;91.0
-STAT 3375 MGF Calculation for discrete;2.0;94.0
-Get UPass;1.0;0.0
-Look into the materials provided here: https://career.uconn.edu/channels/prepare-for-an-interview/#uc_recent_posts-9;1.0;149.0
-HuskyConnect - reach out to a dsml professional;1.0;94.0
-Honors Leadership Project Planning;2.0;1768.0
+2023-11-12;17
+Nvidia technical review;1;36
+Finish reviewing ken Jee's intro to kaggle / House price prediction ;2.0;7.0
+Travelers Competition - Implement Multi-Stage modeling (classify -> count -> predict cost);2.0;11.0
+Travelers Competition - Meeting with Jason;2.0;6.0
+STAT 3375 - Quiz 5;2.0;29.0
+Let Po-Po what I want to do for my 21st birthday;1.0;-5.0
+Experiment with features to encrypt the assignment data, make the schedule only viewable through a program which decrypts everything and asks for an RSA key file;2.0;62.0
+STAT 3675 - Plan Final Project;1.0;17.0
+STAT 3675 Homework 4;3.0;17.0
+STAT 3675 - Chapter 10 Reading;3.0;77.0
+STAT 3675 - Chapter 2 Problems;3.0;36.0
+STAT 3675 - Chapter 10 Problems;3.0;77.0
+STAT 3675 - Read through Chapter 9;3.0;36.0
+CSE 3500 - PS5-Q3;2.0;19.0
+CSE 3500 - PS5-Q2;2.0;9.0
+CSE 3500 - PS5-Q5;2.0;24.0
+CSE 3500 - PS5-Q4;2.0;24.0
+CSE 3500 - PS5-Q1;2.0;9.0
+Academic - Organize Plan of study to incorporate BADM 3103 and BADM 3302;1.0;103.0
+Make update to scheduler - add feature to append the date to the end of each line in assignments.txt;1.0;-5.0
+Plan data challenge;2.0;2.0
+Scheduler - add a feature to back up the previous save of schedule and assignments file in case of an accidental deletion;1.0;2.0
+Scheduler - add a feature to indicate the level of urgency associated with each task;1.0;2.0
+Submit Entry for traveler's modeling competition;1.0;31.0
+STAT 3375 MGF Calculation for continuous;2.0;44.0
+STAT 3375 MGF Calculation for discrete;2.0;47.0
+Look into the materials provided here: https://career.uconn.edu/channels/prepare-for-an-interview/#uc_recent_posts-9;1.0;102.0
+HuskyConnect - reach out to a dsml professional;1.0;47.0
+Honors Leadership Project Planning;2.0;1721.0

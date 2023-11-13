@@ -1,80 +1,116 @@
-0 STAT 3375 - compile notes from 10/30 + 11/01 -> dur: 1.0 -> deadline: -6.0
+0 Let Po-Po what I want to do for my 21st birthday -> dur: 1.0 -> deadline: -5.0
 	 at time 0
+Lateness: -6.0
+----------------------------------------------------------------------------------------------------
+1 Make update to scheduler - add feature to append the date to the end of each line in assignments.txt -> dur: 1.0 -> deadline: -5.0
+	 at time 1.0
 Lateness: -7.0
 ----------------------------------------------------------------------------------------------------
-1 Get UPass -> dur: 1.0 -> deadline: 0.0
-	 at time 1.0
+2 Plan data challenge -> dur: 2.0 -> deadline: 2.0
+	 at time 2.0
 Lateness: -2.0
 ----------------------------------------------------------------------------------------------------
-2 STAT 3375 - Quiz 4 -> dur: 2.0 -> deadline: 1.0
-	 at time 2.0
+3 Scheduler - add a feature to back up the previous save of schedule and assignments file in case of an accidental deletion -> dur: 1.0 -> deadline: 2.0
+	 at time 4.0
 Lateness: -3.0
 ----------------------------------------------------------------------------------------------------
-3 call ryan and see if he wants to hang out over thanksgiving break -> dur: 1.0 -> deadline: 1.0
-	 at time 4.0
+4 Scheduler - add a feature to indicate the level of urgency associated with each task -> dur: 1.0 -> deadline: 2.0
+	 at time 5.0
 Lateness: -4.0
 ----------------------------------------------------------------------------------------------------
-4 STAT 3515 - Come up with plan for exam study (Exam 11/07/23) -> dur: 1.0 -> deadline: 1.0
-	 at time 5.0
+5 Travelers Competition - Meeting with Jason -> dur: 2.0 -> deadline: 6.0
+	 at time 6.0
+Lateness: -2.0
+----------------------------------------------------------------------------------------------------
+6 Finish reviewing ken Jee's intro to kaggle / House price prediction  -> dur: 2.0 -> deadline: 7.0
+	 at time 8.0
+Lateness: -3.0
+----------------------------------------------------------------------------------------------------
+7 CSE 3500 - PS5-Q2 -> dur: 2.0 -> deadline: 9.0
+	 at time 10.0
+Lateness: -3.0
+----------------------------------------------------------------------------------------------------
+8 CSE 3500 - PS5-Q1 -> dur: 2.0 -> deadline: 9.0
+	 at time 12.0
 Lateness: -5.0
 ----------------------------------------------------------------------------------------------------
-5 CSE 3500 - view lecture 10/31/23 on HuskyCT -> dur: 2.0 -> deadline: 1.0
-	 at time 6.0
-Lateness: -7.0
+9 Travelers Competition - Implement Multi-Stage modeling (classify -> count -> predict cost) -> dur: 2.0 -> deadline: 11.0
+	 at time 14.0
+Lateness: -5.0
 ----------------------------------------------------------------------------------------------------
-6 Plan data challenge  -> dur: 2.0 -> deadline: 1.0
-	 at time 8.0
-Lateness: -9.0
+10 STAT 3675 - Plan Final Project -> dur: 1.0 -> deadline: 17.0
+	 at time 16.0
+Lateness: 0
 ----------------------------------------------------------------------------------------------------
-7 NVIDIA technical review (leetcode easy + medium)  -> dur: 1.0 -> deadline: 1.0
-	 at time 10.0
-Lateness: -10.0
-----------------------------------------------------------------------------------------------------
-8 Make update to scheduler - add feature to append the date to the end of each line in assignments.txt -> dur: 1.0 -> deadline: 1.0
-	 at time 11.0
-Lateness: -11.0
-----------------------------------------------------------------------------------------------------
-9 Travelers Competition - Meeting with Jason  -> dur: 1.0 -> deadline: 2.0
-	 at time 12.0
-Lateness: -11.0
-----------------------------------------------------------------------------------------------------
-10 Travelers Competition - Check over Jason's work on PCA -> dur: 2 -> deadline: 7
-	 at time 13.0
-Lateness: -8.0
-----------------------------------------------------------------------------------------------------
-11 Debug weight extraction Delphi - run the resnet model that Ali helped me to put together  -> dur: 2.0 -> deadline: 8.0
-	 at time 15.0
-Lateness: -9.0
-----------------------------------------------------------------------------------------------------
-12 Academic - Organize Plan of study to incorporate BADM 3103 and BADM 3302 -> dur: 1.0 -> deadline: 8.0
+11 STAT 3675 Homework 4 -> dur: 3.0 -> deadline: 17.0
 	 at time 17.0
-Lateness: -10.0
+Lateness: -3.0
 ----------------------------------------------------------------------------------------------------
-13 Register for Honors Event: Service-ing Your Resume -> dur: 1.0 -> deadline: 21.0
-	 at time 18.0
-Lateness: 0
-----------------------------------------------------------------------------------------------------
-14 Submit Entry for traveler's modeling competition -> dur: 1.0 -> deadline: 78.0
-	 at time 19.0
-Lateness: 0
-----------------------------------------------------------------------------------------------------
-15 STAT 3375 MGF Calculation for continuous -> dur: 2.0 -> deadline: 91.0
+12 CSE 3500 - PS5-Q3 -> dur: 2.0 -> deadline: 19.0
 	 at time 20.0
-Lateness: 0
+Lateness: -3.0
 ----------------------------------------------------------------------------------------------------
-16 STAT 3375 MGF Calculation for discrete -> dur: 2.0 -> deadline: 94.0
+13 CSE 3500 - PS5-Q5 -> dur: 2.0 -> deadline: 24.0
 	 at time 22.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------
-17 HuskyConnect - reach out to a dsml professional -> dur: 1.0 -> deadline: 94.0
+14 CSE 3500 - PS5-Q4 -> dur: 2.0 -> deadline: 24.0
 	 at time 24.0
-Lateness: 0
+Lateness: -2.0
 ----------------------------------------------------------------------------------------------------
-18 Look into the materials provided here: https://career.uconn.edu/channels/prepare-for-an-interview/#uc_recent_posts-9 -> dur: 1.0 -> deadline: 149.0
-	 at time 25.0
-Lateness: 0
-----------------------------------------------------------------------------------------------------
-19 Honors Leadership Project Planning -> dur: 2.0 -> deadline: 1768.0
+15 STAT 3375 - Quiz 5 -> dur: 2.0 -> deadline: 29.0
 	 at time 26.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+16 Submit Entry for traveler's modeling competition -> dur: 1.0 -> deadline: 31.0
+	 at time 28.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+17 Nvidia technical review -> dur: 1 -> deadline: 36
+	 at time 29.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+18 STAT 3675 - Chapter 2 Problems -> dur: 3.0 -> deadline: 36.0
+	 at time 30.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+19 STAT 3675 - Read through Chapter 9 -> dur: 3.0 -> deadline: 36.0
+	 at time 33.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+20 STAT 3375 MGF Calculation for continuous -> dur: 2.0 -> deadline: 44.0
+	 at time 36.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+21 STAT 3375 MGF Calculation for discrete -> dur: 2.0 -> deadline: 47.0
+	 at time 38.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+22 HuskyConnect - reach out to a dsml professional -> dur: 1.0 -> deadline: 47.0
+	 at time 40.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+23 Experiment with features to encrypt the assignment data, make the schedule only viewable through a program which decrypts everything and asks for an RSA key file -> dur: 2.0 -> deadline: 62.0
+	 at time 41.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+24 STAT 3675 - Chapter 10 Reading -> dur: 3.0 -> deadline: 77.0
+	 at time 43.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+25 STAT 3675 - Chapter 10 Problems -> dur: 3.0 -> deadline: 77.0
+	 at time 46.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+26 Look into the materials provided here: https://career.uconn.edu/channels/prepare-for-an-interview/#uc_recent_posts-9 -> dur: 1.0 -> deadline: 102.0
+	 at time 49.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+27 Academic - Organize Plan of study to incorporate BADM 3103 and BADM 3302 -> dur: 1.0 -> deadline: 103.0
+	 at time 50.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+28 Honors Leadership Project Planning -> dur: 2.0 -> deadline: 1721.0
+	 at time 51.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------

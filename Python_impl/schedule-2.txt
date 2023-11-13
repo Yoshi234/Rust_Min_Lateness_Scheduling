@@ -1,0 +1,96 @@
+0 STAT 3515 - Come up with plan for exam study (Exam 11/07/23) -> dur: 1.0 -> deadline: -5.0
+	 at time 0
+Lateness: -6.0
+----------------------------------------------------------------------------------------------------
+1 CSE 3500 - view lecture 10/31/23 on HuskyCT -> dur: 2.0 -> deadline: -5.0
+	 at time 1.0
+Lateness: -8.0
+----------------------------------------------------------------------------------------------------
+2 Plan data challenge  -> dur: 2.0 -> deadline: -5.0
+	 at time 3.0
+Lateness: -10.0
+----------------------------------------------------------------------------------------------------
+3 NVIDIA technical review (leetcode easy + medium)  -> dur: 1.0 -> deadline: -5.0
+	 at time 5.0
+Lateness: -11.0
+----------------------------------------------------------------------------------------------------
+4 Make update to scheduler - add feature to append the date to the end of each line in assignments.txt -> dur: 1.0 -> deadline: -5.0
+	 at time 6.0
+Lateness: -12.0
+----------------------------------------------------------------------------------------------------
+5 Travelers Competition - Meeting with Jason  -> dur: 1.0 -> deadline: -4.0
+	 at time 7.0
+Lateness: -12.0
+----------------------------------------------------------------------------------------------------
+6 Travelers Competition - Check over Jason's work on PCA -> dur: 2.0 -> deadline: 1.0
+	 at time 8.0
+Lateness: -9.0
+----------------------------------------------------------------------------------------------------
+7 Debug weight extraction Delphi - run the resnet model that Ali helped me to put together  -> dur: 2.0 -> deadline: 2.0
+	 at time 10.0
+Lateness: -10.0
+----------------------------------------------------------------------------------------------------
+8 Academic - Organize Plan of study to incorporate BADM 3103 and BADM 3302 -> dur: 1.0 -> deadline: 2.0
+	 at time 12.0
+Lateness: -11.0
+----------------------------------------------------------------------------------------------------
+9 Share slides with Dr. Hong Detailing fixes to the issue of accuracy in Delphi - 11/06/23 -> dur: 2.0 -> deadline: 6.0
+	 at time 13.0
+Lateness: -9.0
+----------------------------------------------------------------------------------------------------
+10 STAT 3515 - Yates method for 2^2 problem -> dur: 1 -> deadline: 7
+	 at time 15.0
+Lateness: -9.0
+----------------------------------------------------------------------------------------------------
+11 STAT 3515 - Theory of contrasts problem -> dur: 1 -> deadline: 7
+	 at time 16.0
+Lateness: -10.0
+----------------------------------------------------------------------------------------------------
+12 STAT 3515 - Blocking in 2^k experiments problem -> dur: 2 -> deadline: 11
+	 at time 17.0
+Lateness: -8.0
+----------------------------------------------------------------------------------------------------
+13 STAT 3515 - Average effect of factors (lec 15 + 16 ) problem  -> dur: 1 -> deadline: 11
+	 at time 19.0
+Lateness: -9.0
+----------------------------------------------------------------------------------------------------
+14 Register for Honors Event: Service-ing Your Resume -> dur: 1.0 -> deadline: 15.0
+	 at time 20.0
+Lateness: -6.0
+----------------------------------------------------------------------------------------------------
+15 STAT 3515 - Confounding in blocked experiments (2^4 expeiriments)  -> dur: 2 -> deadline: 17
+	 at time 21.0
+Lateness: -6.0
+----------------------------------------------------------------------------------------------------
+16 STAT 3515 - Choosing a model for 2^k with single replicates -> dur: 1 -> deadline: 17
+	 at time 23.0
+Lateness: -7.0
+----------------------------------------------------------------------------------------------------
+17 Scheduler - add a feature to indicate the level of urgency associated with each task -> dur: 1.0 -> deadline: 43.0
+	 at time 24.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+18 Submit Entry for traveler's modeling competition -> dur: 1.0 -> deadline: 72.0
+	 at time 25.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+19 STAT 3375 MGF Calculation for continuous -> dur: 2.0 -> deadline: 85.0
+	 at time 26.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+20 STAT 3375 MGF Calculation for discrete -> dur: 2.0 -> deadline: 88.0
+	 at time 28.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+21 HuskyConnect - reach out to a dsml professional -> dur: 1.0 -> deadline: 88.0
+	 at time 30.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+22 Look into the materials provided here: https://career.uconn.edu/channels/prepare-for-an-interview/#uc_recent_posts-9 -> dur: 1.0 -> deadline: 143.0
+	 at time 31.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+23 Honors Leadership Project Planning -> dur: 2.0 -> deadline: 1762.0
+	 at time 32.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------

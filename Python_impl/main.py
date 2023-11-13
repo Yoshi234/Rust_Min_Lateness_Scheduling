@@ -165,34 +165,6 @@ def main():
     # update point
     current_date = datetime.now()
     all_assignments = get_new_assignments(days, current_date)
-    # all_assignments = [
-    #     Assign("Data Challenge Outline - timeline work", 2, 144), 
-    #     Assign("Delphi Model Validation", 3, 24),
-    #     Assign("Delphi Model Latency", 3, 24),
-    #     Assign("Delphi Model Throughput", 3, 24),
-    #     Assign("CSE 3500 PS3 - p1", 1, 45), 
-    #     Assign("CSE 3500 PS3 - p2", 1, 45), 
-    #     Assign("CSE 3500 PS3 - p3", 1, 45),
-    #     Assign("CSE 3500 PS3 - p5", 1, 45),
-    #     Assign("STAT 3515 Weakness Identification", 1, -15), 
-    #     Assign("STAT 3515 EP1 - One-Way Fixed Effects", 1, 9), 
-    #     Assign("STAT 3515 EP2 - One Way Random Effects", 1, 9),
-    #     Assign("STAT 3515 EP3 - Randomized Complete Block Design", 1, 9),
-    #     Assign("STAT 3515 EP4 - Incomplete Block Design (Latin Squares)", 1, 9),
-    #     Assign("STAT 3515 EP5 - Incomplete Block Design (Greco Latin Squares)", 1, 9),
-    #     Assign("STAT 3515 EP5 - Two-Way factorial Completely randomized Fixed WEffects", 1, 8),
-    #     Assign("STAT 3515 EP7 - Three-Way Factorial Completely ranomized Fixed Effects", 1, 8),
-    #     Assign("STAT 3515 Homework", 3, 22), 
-    #     Assign("STAT 3675 Homework", 3, 23), 
-    #     Assign("Fill out Honors Plan + Submit", 1, 144), 
-    #     Assign("Put together Poster Presentation for Fall Frontiers", 5, 38),
-    #     Assign("Print Poster Presentation for Fall Frontiers", 2, 45), 
-    #     Assign("Apply for NVIDIA Internships of Interest", 1, 2),
-    #     Assign("Register for Data Science Day Poster Session", 0.5, 13),
-    #     Assign("Compile and print notes for Test", 2, 19), 
-    #     Assign("Compile Class Notes - 10/9 + 10/10", 2, 19), 
-    #     Assign("Compile Class Notes - 10/11 + 10/12 + 10/13", 3, 38)
-    # ]
     random.shuffle(all_assignments)
 
     # define a separate date (day) variable which only contains day information 

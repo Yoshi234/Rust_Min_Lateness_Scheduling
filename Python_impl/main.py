@@ -134,8 +134,9 @@ def get_new_assignments(days:list, current:datetime):
         else:
             time_diff=(date1-current_date).days
         
+        date_string = date1.strftime("%Y-%m-%d")
         final_deadline = find_deadline(days, time_diff, start_hour, deadline_hour, current_date.weekday(), date1.weekday(), 41)
-        new_assign = Assign(name=name, duration=duration, deadline=final_deadline)
+        new_assign = Assign(name=name, duration=duration, deadline=final_deadline, date_format=date_string)
         new_assignments.append(new_assign)
     return new_assignments
 
@@ -143,21 +144,23 @@ def write_assignments(assignments:list, file:str, current_date:datetime=None):
     if current_date == None:
         with open(file, "a") as f:
             for i in range(len(assignments)): 
-                f.write(f"{assignments[i].name};{assignments[i].duration};{assignments[i].deadline}\n")
+                f.write(f"{assignments[i].name};{assignments[i].duration};{assignments[i].deadline};{assignments[i].date_format}\n")
     else:
         with open(file, "w") as f:
             f.write(f"{current_date.strftime('%Y-%m-%d')};{current_date.hour}\n")
             for i in range(len(assignments)):
-                f.write(f"{assignments[i].name};{assignments[i].duration};{assignments[i].deadline}\n")
+                f.write(f"{assignments[i].name};{assignments[i].duration};{assignments[i].deadline};{assignments[i].date_format}\n")
 
+# https://fstring.help/cheat/
 class Assign: 
-    def __init__(self, name, duration:float, deadline:float):
+    def __init__(self, name, duration:float, deadline:float, date_format:datetime = None):
         self.name = name
         self.duration = duration
         self.deadline = deadline
+        self.date_format = date_format 
 
     def __str__(self):
-        return f"{self.name} -> dur: {self.duration} -> deadline: {self.deadline}"
+        return f"{self.name} -> dur: {self.duration} -> deadline: {self.deadline} -> date: {self.date_format}"
 
 def main():
     # these times were set on 10/8/23 - make sure to iteratively subtract from each 
@@ -187,7 +190,12 @@ def main():
             for i in range(1, len(lines)):
                 x = lines[i].strip("\n")
                 x = x.split(";")
-                assignment = Assign(x[0], float(x[1]), float(x[2]))
+                # if the length of the input is 4, then the date is included
+                # otherwise, it was ignored (only should apply for the first read)
+                if len(x) == 4:
+                    assignment = Assign(x[0], float(x[1]), float(x[2]), x[3])
+                elif len(x) == 3:
+                    assignment = Assign(x[0], float(x[1]), float(x[2]))
                 old_assignments.append(assignment)
             # use current_day_day instead of current_date to calculate day difference
             # use current_day with the hour to calculate current_hour variable

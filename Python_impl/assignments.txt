@@ -1,30 +1,26 @@
-2023-11-13;22
-Let Po-Po know what I want to do for my birthday;1;29;2023-11-18
-Travelers Competition - Meeting with Alex and Jason;2.0;3.0;2023-11-14
-STAT 3675 - Plan final project ;1.0;29.0;2023-11-18
-STAT 3515 - Homework 11;3.0;12.0;2023-11-16
-UCSAS - Plan Data Challenge;2.0;70.0;2023-11-25
-Scheduler - backup assignments and schedule data from previous save;1.0;70.0;2023-11-25
-Scheduler - add feature to indicate level of urgency associated with given assignment;1.0;70.0;2023-11-25
-Nvidia technical review;1.0;29.0;None
-Finish reviewing ken Jee's intro to kaggle / House price prediction ;2.0;0.0;None
-Travelers Competition - Implement Multi-Stage modeling (classify -> count -> predict cost);2.0;4.0;None
-STAT 3375 - Quiz 5;2.0;22.0;None
-Experiment with features to encrypt the assignment data, make the schedule only viewable through a program which decrypts everything and asks for an RSA key file;2.0;55.0;None
-STAT 3675 Homework 4;3.0;10.0;None
-STAT 3675 - Chapter 10 Reading;3.0;70.0;None
-STAT 3675 - Chapter 2 Problems;3.0;29.0;None
-STAT 3675 - Chapter 10 Problems;3.0;70.0;None
-STAT 3675 - Read through Chapter 9;3.0;29.0;None
-CSE 3500 - PS5-Q3;2.0;12.0;None
-CSE 3500 - PS5-Q2;2.0;2.0;None
-CSE 3500 - PS5-Q5;2.0;17.0;None
-CSE 3500 - PS5-Q4;2.0;17.0;None
-CSE 3500 - PS5-Q1;2.0;2.0;None
-Academic - Organize Plan of study to incorporate BADM 3103 and BADM 3302;1.0;96.0;None
-Submit Entry for traveler's modeling competition;1.0;24.0;None
-STAT 3375 MGF Calculation for continuous;2.0;37.0;None
-STAT 3375 MGF Calculation for discrete;2.0;40.0;None
-Look into the materials provided here: https://career.uconn.edu/channels/prepare-for-an-interview/#uc_recent_posts-9;1.0;95.0;None
-HuskyConnect - reach out to a dsml professional;1.0;40.0;None
-Honors Leadership Project Planning;2.0;1714.0;None
+2023-11-26;20
+STAT 3515 - Review lecture 11/14 (distance learning) before class;1.0;-60.0;2023-11-16
+CSE 3500 - PS5-Q5;2.0;-56.0;None
+Let Po-Po know what I want to do for my birthday;1.0;-44.0;2023-11-18
+STAT 3675 - Plan final project ;1.0;-44.0;2023-11-18
+Nvidia technical review;1.0;-44.0;None
+STAT 3675 - Chapter 2 Problems;3.0;-44.0;None
+STAT 3675 - Read through Chapter 9;3.0;-44.0;None
+STAT 3375 MGF Calculation for continuous;2.0;-36.0;None
+STAT 3375 MGF Calculation for discrete;2.0;-33.0;None
+HuskyConnect - reach out to a dsml professional;1.0;-33.0;None
+Experiment with features to encrypt the assignment data, make the schedule only viewable through a program which decrypts everything and asks for an RSA key file;2.0;-18.0;None
+Delphi Project - continue work on project - try to verify the results output by Delphi or find errors which could be causing performance degradation;3.0;-10.0;2023-11-24
+STAT 3675 - Homework 5 ;3.0;-10.0;2023-11-24
+UCSAS - Plan Data Challenge;2.0;-3.0;2023-11-25
+Scheduler - backup assignments and schedule data from previous save;1.0;-3.0;2023-11-25
+Scheduler - add feature to indicate level of urgency associated with given assignment;1.0;-3.0;2023-11-25
+STAT 3675 - Chapter 10 Reading;3.0;-3.0;None
+STAT 3675 - Chapter 10 Problems;3.0;-3.0;None
+CSE 3500 - Finish backtracking writeup for PS5-Q4;1;5;2023-11-27
+CSE 3500 - Office hours with Afsana - generate questions ahead of time ;1.0;5.0;2023-11-27
+Look into the materials provided here: https://career.uconn.edu/channels/prepare-for-an-interview/#uc_recent_posts-9;1.0;22.0;None
+Academic - Organize Plan of study to incorporate BADM 3103 and BADM 3302;1.0;23.0;None
+STAT 3375 - Quiz 6;1.0;28.0;2023-12-01
+STAT 3515 - Plan for Exam 3;1.0;35.0;2023-12-02
+Honors Leadership Project Planning;2.0;1641.0;None

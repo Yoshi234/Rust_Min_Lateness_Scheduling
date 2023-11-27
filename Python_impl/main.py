@@ -151,6 +151,26 @@ def write_assignments(assignments:list, file:str, current_date:datetime=None):
             for i in range(len(assignments)):
                 f.write(f"{assignments[i].name};{assignments[i].duration};{assignments[i].deadline};{assignments[i].date_format}\n")
 
+def generate_alerts(assignments:list, current_date:datetime=None):
+    late_assignments = []
+    on_time = []
+    for assignment in assignments: 
+        if assignment.deadline < 0: late_assignments.append(assignment)
+        elif assignment.deadline > 0 and assignment.deadline <= 10: 
+            on_time.append(assignment)
+    print("-"*100)
+    print("Upcoming Assignments")
+    print("-"*100)
+    for assignment in on_time:
+        print(assignment)
+    print("-"*100)
+    print("Late Assignments") 
+    print("-"*100)
+    for assignment in late_assignments:
+        print(assignment)
+    print("-"*100)
+
+
 # https://fstring.help/cheat/
 class Assign: 
     def __init__(self, name, duration:float, deadline:float, date_format:datetime = None):
@@ -210,12 +230,13 @@ def main():
             else: 
                 for assign in old_assignments:
                     assign.deadline += dif
-        all_assignments = all_assignments + old_assignments
-        write_assignments(all_assignments, "assignments.txt", current_date)
+        all_assignments = all_assignments + old_assignments 
+        sorted_data = sorted(all_assignments, key=lambda item: item.deadline)
+        write_assignments(sorted_data, "assignments.txt", current_date)
+        generate_alerts(sorted_data, current_date)
 
     with open("schedule.txt", "w") as f:
         time = 0
-        sorted_data = sorted(all_assignments, key=lambda item: item.deadline)
         for i in range(len(sorted_data)):
             f.write(f"{i} {sorted_data[i]}\n")
             f.write(f"\t at time {time}\n")

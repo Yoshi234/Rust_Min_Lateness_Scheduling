@@ -1,100 +1,189 @@
-0 STAT 3515 - Review lecture 11/14 (distance learning) before class -> dur: 1.0 -> deadline: -60.0 -> date: 2023-11-16
+0 Let Po-Po know what I want to do for my birthday
+	 -> dur: 1.0
+	 -> deadline: -121.0
+	 -> date: 2023-11-18
 	 at time 0
-Lateness: -61.0
+Lateness: -122.0
 ----------------------------------------------------------------------------------------------------
-1 CSE 3500 - PS5-Q5 -> dur: 2.0 -> deadline: -56.0 -> date: None
+1 CSE 3500 - FR Ch6 Solved Exercises Review
+	 -> dur: 1.0
+	 -> deadline: -1.0
+	 -> date: 2023-12-09
 	 at time 1.0
-Lateness: -59.0
+Lateness: -3.0
 ----------------------------------------------------------------------------------------------------
-2 Let Po-Po know what I want to do for my birthday -> dur: 1.0 -> deadline: -44.0 -> date: 2023-11-18
-	 at time 3.0
-Lateness: -48.0
+2 CSE 3500 - FR Ch6 content review
+	 -> dur: 2.0
+	 -> deadline: -1.0
+	 -> date: 2023-12-09
+	 at time 2.0
+Lateness: -5.0
 ----------------------------------------------------------------------------------------------------
-3 STAT 3675 - Plan final project  -> dur: 1.0 -> deadline: -44.0 -> date: 2023-11-18
+3 CSE 3500 - FR Ch8 content review
+	 -> dur: 2.0
+	 -> deadline: 1.0
+	 -> date: 2023-12-10
 	 at time 4.0
-Lateness: -49.0
+Lateness: -5.0
 ----------------------------------------------------------------------------------------------------
-4 Nvidia technical review -> dur: 1.0 -> deadline: -44.0 -> date: None
-	 at time 5.0
-Lateness: -50.0
-----------------------------------------------------------------------------------------------------
-5 STAT 3675 - Chapter 2 Problems -> dur: 3.0 -> deadline: -44.0 -> date: None
+4 CSE 3500 - FR Ch8 Solved Exercises Review
+	 -> dur: 1.0
+	 -> deadline: 1.0
+	 -> date: 2023-12-10
 	 at time 6.0
-Lateness: -53.0
-----------------------------------------------------------------------------------------------------
-6 STAT 3675 - Read through Chapter 9 -> dur: 3.0 -> deadline: -44.0 -> date: None
-	 at time 9.0
-Lateness: -56.0
-----------------------------------------------------------------------------------------------------
-7 STAT 3375 MGF Calculation for continuous -> dur: 2.0 -> deadline: -36.0 -> date: None
-	 at time 12.0
-Lateness: -50.0
-----------------------------------------------------------------------------------------------------
-8 STAT 3375 MGF Calculation for discrete -> dur: 2.0 -> deadline: -33.0 -> date: None
-	 at time 14.0
-Lateness: -49.0
-----------------------------------------------------------------------------------------------------
-9 HuskyConnect - reach out to a dsml professional -> dur: 1.0 -> deadline: -33.0 -> date: None
-	 at time 16.0
-Lateness: -50.0
-----------------------------------------------------------------------------------------------------
-10 Experiment with features to encrypt the assignment data, make the schedule only viewable through a program which decrypts everything and asks for an RSA key file -> dur: 2.0 -> deadline: -18.0 -> date: None
-	 at time 17.0
-Lateness: -37.0
-----------------------------------------------------------------------------------------------------
-11 Delphi Project - continue work on project - try to verify the results output by Delphi or find errors which could be causing performance degradation -> dur: 3.0 -> deadline: -10.0 -> date: 2023-11-24
-	 at time 19.0
-Lateness: -32.0
-----------------------------------------------------------------------------------------------------
-12 STAT 3675 - Homework 5  -> dur: 3.0 -> deadline: -10.0 -> date: 2023-11-24
-	 at time 22.0
-Lateness: -35.0
-----------------------------------------------------------------------------------------------------
-13 UCSAS - Plan Data Challenge -> dur: 2.0 -> deadline: -3.0 -> date: 2023-11-25
-	 at time 25.0
-Lateness: -30.0
-----------------------------------------------------------------------------------------------------
-14 Scheduler - backup assignments and schedule data from previous save -> dur: 1.0 -> deadline: -3.0 -> date: 2023-11-25
-	 at time 27.0
-Lateness: -31.0
-----------------------------------------------------------------------------------------------------
-15 Scheduler - add feature to indicate level of urgency associated with given assignment -> dur: 1.0 -> deadline: -3.0 -> date: 2023-11-25
-	 at time 28.0
-Lateness: -32.0
-----------------------------------------------------------------------------------------------------
-16 STAT 3675 - Chapter 10 Reading -> dur: 3.0 -> deadline: -3.0 -> date: None
-	 at time 29.0
-Lateness: -35.0
-----------------------------------------------------------------------------------------------------
-17 STAT 3675 - Chapter 10 Problems -> dur: 3.0 -> deadline: -3.0 -> date: None
-	 at time 32.0
-Lateness: -38.0
-----------------------------------------------------------------------------------------------------
-18 CSE 3500 - Finish backtracking writeup for PS5-Q4 -> dur: 1 -> deadline: 5 -> date: 2023-11-27
-	 at time 35.0
-Lateness: -31.0
-----------------------------------------------------------------------------------------------------
-19 CSE 3500 - Office hours with Afsana - generate questions ahead of time  -> dur: 1.0 -> deadline: 5.0 -> date: 2023-11-27
-	 at time 36.0
-Lateness: -32.0
-----------------------------------------------------------------------------------------------------
-20 Look into the materials provided here: https://career.uconn.edu/channels/prepare-for-an-interview/#uc_recent_posts-9 -> dur: 1.0 -> deadline: 22.0 -> date: None
-	 at time 37.0
-Lateness: -16.0
-----------------------------------------------------------------------------------------------------
-21 Academic - Organize Plan of study to incorporate BADM 3103 and BADM 3302 -> dur: 1.0 -> deadline: 23.0 -> date: None
-	 at time 38.0
-Lateness: -16.0
-----------------------------------------------------------------------------------------------------
-22 STAT 3375 - Quiz 6 -> dur: 1.0 -> deadline: 28.0 -> date: 2023-12-01
-	 at time 39.0
-Lateness: -12.0
-----------------------------------------------------------------------------------------------------
-23 STAT 3515 - Plan for Exam 3 -> dur: 1.0 -> deadline: 35.0 -> date: 2023-12-02
-	 at time 40.0
 Lateness: -6.0
 ----------------------------------------------------------------------------------------------------
-24 Honors Leadership Project Planning -> dur: 2.0 -> deadline: 1641.0 -> date: None
-	 at time 41.0
+5 CSE 3500 - FR Ch4 + Ch5 Solved Exercises review
+	 -> dur: 1.0
+	 -> deadline: 4.0
+	 -> date: 2023-12-10
+	 at time 7.0
+Lateness: -4.0
+----------------------------------------------------------------------------------------------------
+6 CSE 3500 - FR Content Review Ch4 + Ch5
+	 -> dur: 2.0
+	 -> deadline: 4.0
+	 -> date: 2023-12-10
+	 at time 8.0
+Lateness: -6.0
+----------------------------------------------------------------------------------------------------
+7 CSE 3500 - FR Ch3 Solved Exercises Review
+	 -> dur: 1.0
+	 -> deadline: 5.0
+	 -> date: 2023-12-10
+	 at time 10.0
+Lateness: -6.0
+----------------------------------------------------------------------------------------------------
+8 CSE 3500 - FR Ch3 Content Review
+	 -> dur: 1.0
+	 -> deadline: 5.0
+	 -> date: 2023-12-10
+	 at time 11.0
+Lateness: -7.0
+----------------------------------------------------------------------------------------------------
+9 CSE 3500 - FR Ch8 Practice Problems (2)
+	 -> dur: 2.0
+	 -> deadline: 6.0
+	 -> date: 2023-12-10
+	 at time 12.0
+Lateness: -8.0
+----------------------------------------------------------------------------------------------------
+10 CSE 3500 - FR Ch6 Practice Problems (2)
+	 -> dur: 2.0
+	 -> deadline: 6.0
+	 -> date: 2023-12-10
+	 at time 14.0
+Lateness: -10.0
+----------------------------------------------------------------------------------------------------
+11 CSE 3500 - FR Ch4 + Ch5 Practice Problems (2)
+	 -> dur: 2.0
+	 -> deadline: 6.0
+	 -> date: 2023-12-10
+	 at time 16.0
+Lateness: -12.0
+----------------------------------------------------------------------------------------------------
+12 STAT 3375 - Exam Prep Timeline
+	 -> dur: 2.0
+	 -> deadline: 15.0
+	 -> date: 2023-12-12
+	 at time 18.0
+Lateness: -5.0
+----------------------------------------------------------------------------------------------------
+13 STAT 3375 - Complete Density Function Transform and proof questions - memorize the exponential, beta, and gamma functions, mgf, and density functions
+	 -> dur: 3.0
+	 -> deadline: 15.0
+	 -> date: 2023-12-12
+	 at time 20.0
+Lateness: -8.0
+----------------------------------------------------------------------------------------------------
+14 STAT 3375 MGF calculation for continuous
+	 -> dur: 3.0
+	 -> deadline: 15.0
+	 -> date: 2023-12-12
+	 at time 23.0
+Lateness: -11.0
+----------------------------------------------------------------------------------------------------
+15 STAT 3375 MGF calculation for discrete
+	 -> dur: 3.0
+	 -> deadline: 21.0
+	 -> date: 2023-12-13
+	 at time 26.0
+Lateness: -8.0
+----------------------------------------------------------------------------------------------------
+16 Nvidia Technical Review
+	 -> dur: 2.0
+	 -> deadline: 47.0
+	 -> date: 2023-12-17
+	 at time 29.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+17 Delphi Project - continue work on project - try to verify the results output by Delphi or find errors which could be causing performance degradation
+	 -> dur: 3.0
+	 -> deadline: 62.0
+	 -> date: 2023-12-20
+	 at time 31.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+18 HuskyConnect - Reach out to a DSML professional from UConn
+	 -> dur: 2.0
+	 -> deadline: 62.0
+	 -> date: 2023-12-20
+	 at time 34.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+19 Look into the materials provided here: https://career.uconn.edu/channels/prepare-for-an-interview/#uc_recent_posts-9
+	 -> dur: 2.0
+	 -> deadline: 62.0
+	 -> date: 2023-12-20
+	 at time 36.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+20 Academic - Organize Plan of study to incorporate BADM 3103 and BADM 3302
+	 -> dur: 2.0
+	 -> deadline: 62.0
+	 -> date: 2023-12-20
+	 at time 38.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+21 Scheduler - backup assignments and schedule data from previous save
+	 -> dur: 2.0
+	 -> deadline: 62.0
+	 -> date: 2023-12-20
+	 at time 40.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+22 Scheduler - add feature to indicate level of urgency associated with given assignment
+	 -> dur: 2.0
+	 -> deadline: 62.0
+	 -> date: 2023-12-20
+	 at time 42.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+23 Experiment with features to encrypt the assignment data, make the schedule only viewable through a program which decrypts everything and asks for an RSA key file
+	 -> dur: 3.0
+	 -> deadline: 62.0
+	 -> date: 2023-12-20
+	 at time 44.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+24 Opt out of HuskyBook Bundle
+	 -> dur: 1.0
+	 -> deadline: 81.0
+	 -> date: 2023-12-23
+	 at time 47.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+25 Scheduler - incorporate ML to classify / predict whether or not an assignment will be rescheduled given a set of parameters
+	 -> dur: 3.0
+	 -> deadline: 81.0
+	 -> date: 2023-12-23
+	 at time 48.0
+Lateness: 0
+----------------------------------------------------------------------------------------------------
+26 Honors Leadership Project Planning
+	 -> dur: 2.0
+	 -> deadline: 1564.0
+	 -> date: None
+	 at time 51.0
 Lateness: 0
 ----------------------------------------------------------------------------------------------------

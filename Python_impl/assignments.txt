@@ -1,26 +1,28 @@
-2023-11-26;20
-STAT 3515 - Review lecture 11/14 (distance learning) before class;1.0;-60.0;2023-11-16
-CSE 3500 - PS5-Q5;2.0;-56.0;None
-Let Po-Po know what I want to do for my birthday;1.0;-44.0;2023-11-18
-STAT 3675 - Plan final project ;1.0;-44.0;2023-11-18
-Nvidia technical review;1.0;-44.0;None
-STAT 3675 - Chapter 2 Problems;3.0;-44.0;None
-STAT 3675 - Read through Chapter 9;3.0;-44.0;None
-STAT 3375 MGF Calculation for continuous;2.0;-36.0;None
-STAT 3375 MGF Calculation for discrete;2.0;-33.0;None
-HuskyConnect - reach out to a dsml professional;1.0;-33.0;None
-Experiment with features to encrypt the assignment data, make the schedule only viewable through a program which decrypts everything and asks for an RSA key file;2.0;-18.0;None
-Delphi Project - continue work on project - try to verify the results output by Delphi or find errors which could be causing performance degradation;3.0;-10.0;2023-11-24
-STAT 3675 - Homework 5 ;3.0;-10.0;2023-11-24
-UCSAS - Plan Data Challenge;2.0;-3.0;2023-11-25
-Scheduler - backup assignments and schedule data from previous save;1.0;-3.0;2023-11-25
-Scheduler - add feature to indicate level of urgency associated with given assignment;1.0;-3.0;2023-11-25
-STAT 3675 - Chapter 10 Reading;3.0;-3.0;None
-STAT 3675 - Chapter 10 Problems;3.0;-3.0;None
-CSE 3500 - Finish backtracking writeup for PS5-Q4;1;5;2023-11-27
-CSE 3500 - Office hours with Afsana - generate questions ahead of time ;1.0;5.0;2023-11-27
-Look into the materials provided here: https://career.uconn.edu/channels/prepare-for-an-interview/#uc_recent_posts-9;1.0;22.0;None
-Academic - Organize Plan of study to incorporate BADM 3103 and BADM 3302;1.0;23.0;None
-STAT 3375 - Quiz 6;1.0;28.0;2023-12-01
-STAT 3515 - Plan for Exam 3;1.0;35.0;2023-12-02
-Honors Leadership Project Planning;2.0;1641.0;None
+2023-12-10;9
+Let Po-Po know what I want to do for my birthday;1.0;-121.0;2023-11-18
+CSE 3500 - FR Ch6 Solved Exercises Review;1.0;-1.0;2023-12-09
+CSE 3500 - FR Ch6 content review;2.0;-1.0;2023-12-09
+CSE 3500 - FR Ch8 content review;2.0;1.0;2023-12-10
+CSE 3500 - FR Ch8 Solved Exercises Review;1.0;1.0;2023-12-10
+CSE 3500 - FR Ch4 + Ch5 Solved Exercises review;1.0;4.0;2023-12-10
+CSE 3500 - FR Content Review Ch4 + Ch5;2.0;4.0;2023-12-10
+CSE 3500 - FR Ch3 Solved Exercises Review;1.0;5.0;2023-12-10
+CSE 3500 - FR Ch3 Content Review;1.0;5.0;2023-12-10
+CSE 3500 - FR Ch8 Practice Problems (2);2.0;6.0;2023-12-10
+CSE 3500 - FR Ch6 Practice Problems (2);2.0;6.0;2023-12-10
+CSE 3500 - FR Ch4 + Ch5 Practice Problems (2);2.0;6.0;2023-12-10
+STAT 3375 - Exam Prep Timeline;2.0;15.0;2023-12-12
+STAT 3375 - Complete Density Function Transform and proof questions - memorize the exponential, beta, and gamma functions, mgf, and density functions;3.0;15.0;2023-12-12
+STAT 3375 MGF calculation for continuous;3.0;15.0;2023-12-12
+STAT 3375 MGF calculation for discrete;3.0;21.0;2023-12-13
+Nvidia Technical Review;2.0;47.0;2023-12-17
+Delphi Project - continue work on project - try to verify the results output by Delphi or find errors which could be causing performance degradation;3.0;62.0;2023-12-20
+HuskyConnect - Reach out to a DSML professional from UConn;2.0;62.0;2023-12-20
+Look into the materials provided here: https://career.uconn.edu/channels/prepare-for-an-interview/#uc_recent_posts-9;2.0;62.0;2023-12-20
+Academic - Organize Plan of study to incorporate BADM 3103 and BADM 3302;2.0;62.0;2023-12-20
+Scheduler - backup assignments and schedule data from previous save;2.0;62.0;2023-12-20
+Scheduler - add feature to indicate level of urgency associated with given assignment;2.0;62.0;2023-12-20
+Experiment with features to encrypt the assignment data, make the schedule only viewable through a program which decrypts everything and asks for an RSA key file;3.0;62.0;2023-12-20
+Opt out of HuskyBook Bundle;1.0;81.0;2023-12-23
+Scheduler - incorporate ML to classify / predict whether or not an assignment will be rescheduled given a set of parameters;3.0;81.0;2023-12-23
+Honors Leadership Project Planning;2.0;1564.0;None

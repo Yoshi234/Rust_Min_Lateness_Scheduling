@@ -156,7 +156,7 @@ def generate_alerts(assignments:list, current_date:datetime=None):
     on_time = []
     for assignment in assignments: 
         if assignment.deadline < 0: late_assignments.append(assignment)
-        elif assignment.deadline > 0 and assignment.deadline <= 10: 
+        elif assignment.deadline >= 0 and assignment.deadline <= 10: 
             on_time.append(assignment)
     print("-"*100)
     print("Upcoming Assignments")
@@ -178,9 +178,10 @@ class Assign:
         self.duration = duration
         self.deadline = deadline
         self.date_format = date_format 
+        self.score = -1
 
     def __str__(self):
-        return f"{self.name} -> dur: {self.duration} -> deadline: {self.deadline} -> date: {self.date_format}"
+        return f"{self.name}\n\t -> dur: {self.duration}\n\t -> deadline: {self.deadline}\n\t -> date: {self.date_format}"
 
 def main():
     # these times were set on 10/8/23 - make sure to iteratively subtract from each 
